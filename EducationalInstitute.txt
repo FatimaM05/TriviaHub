@@ -1,0 +1,960 @@
+EI,SchoolName,the address,themail@gmail.com
+C,1
+CS,1,Math
+CSC,1,Math,1
+CSCQ,1,Math,1,1,What is 2+2?,4,3,5,6,4,5
+CSCQ,1,Math,1,2,What is the integral of x dx?,x^2/2,C,2x,x^2/3,x^2/2,5
+CSCQ,1,Math,1,3,What is the derivative of sin(x)?,cos(x),sin(x),-cos(x),-sin(x),cos(x),5
+CSCQ,1,Math,1,4,What is the value of Pi?,3.14159,3,3.14,22/7,3.14159,5
+CSCQ,1,Math,1,5,What is the square root of 16?,4,2,8,6,4,5
+CSCQ,1,Math,1,6,What is the value of e?,2.718,3,2.8,3.14,2.718,5
+CSCQ,1,Math,1,7,What is 10/2?,5,4,6,8,5,5
+CSCQ,1,Math,1,8,What is 7*6?,42,30,36,48,42,5
+CSCQ,1,Math,1,9,What is 9-4?,5,4,3,6,5,5
+CSCQ,1,Math,1,10,What is 3^2?,9,6,8,12,9,5
+CSCQ,1,Math,1,11,What is the integral of 1/x dx?,ln(x),log(x),1/x,x,ln(x),5
+CSCQ,1,Math,1,12,What is the derivative of e^x?,e^x,e^2,x,e^(x-1),e^x,5
+CSCQ,1,Math,1,13,What is the value of cos(0)?,1,0,-1,cos,1,5
+CSCQ,1,Math,1,14,What is the value of sin(90)?0,1,0,-1,sin,1,5
+CSCQ,1,Math,1,15,What is 5+3?,8,6,7,9,8,5
+CSCQ,1,Math,1,16,What is the value of tan(45)?,1,0,tan,-1,1,5
+CSCQ,1,Math,1,17,What is 4*4?,16,8,12,20,16,5
+CSCQ,1,Math,1,18,What is 10-7?,3,2,5,6,3,5
+CSCQ,1,Math,1,19,What is 6/3?,2,1,3,4,2,5
+CSCQ,1,Math,1,20,What is 8+2?,10,6,7,12,10,5
+CSC,1,Math,2
+CSCQ,1,Math,2,1,What is 7+7?,14,12,16,18,14,5
+CSCQ,1,Math,2,2,What is 8*8?,64,56,72,80,64,5
+CSCQ,1,Math,2,3,What is 12-4?,8,7,9,6,8,5
+CSCQ,1,Math,2,4,What is 15/3?,5,4,6,7,5,5
+CSCQ,1,Math,2,5,What is 4+4?,8,7,5,9,8,5
+CSCQ,1,Math,2,6,What is the value of cos(90)?,0,1,cos,-1,0,5
+CSCQ,1,Math,2,7,What is 7-3?,4,3,2,5,4,5
+CSCQ,1,Math,2,8,What is 9*9?,81,72,90,99,81,5
+CSCQ,1,Math,2,9,What is 10+10?,20,19,21,22,20,5
+CSCQ,1,Math,2,10,What is the square root of 81?,9,8,7,6,9,5
+CSCQ,1,Math,2,11,What is 5*5?,25,20,30,35,25,5
+CSCQ,1,Math,2,12,What is 3+3?,6,5,4,7,6,5
+CSCQ,1,Math,2,13,What is the value of sin(0)?,0,1,-1,sin,0,5
+CSCQ,1,Math,2,14,What is 14-7?,7,6,8,5,7,5
+CSCQ,1,Math,2,15,What is 8/4?,2,1,3,4,2,5
+CSCQ,1,Math,2,16,What is 16-4?,12,11,10,9,12,5
+CSCQ,1,Math,2,17,What is 11+2?,13,12,14,15,13,5
+CSCQ,1,Math,2,18,What is 6*6?,36,30,42,48,36,5
+CSCQ,1,Math,2,19,What is 4/2?,2,1,3,4,2,5
+CSCQ,1,Math,2,20,What is 7+5?,12,11,10,9,12,5
+CSC,1,Math,3
+CSCQ,1,Math,3,1,What is 20-10?,10,9,11,8,10,5
+CSCQ,1,Math,3,2,What is 30/5?,6,5,4,7,6,5
+CSCQ,1,Math,3,3,What is 12*12?,144,132,156,168,144,5
+CSCQ,1,Math,3,4,What is 15+5?,20,18,19,21,20,5
+CSCQ,1,Math,3,5,What is the integral of x^2 dx?,x^3/3,C,2x,x^2,x^3/3,5
+CSCQ,1,Math,3,6,What is 9-2?,7,6,5,8,7,5
+CSCQ,1,Math,3,7,What is the derivative of x^2?,2x,3x,x,x^3,2x,5
+CSCQ,1,Math,3,8,What is 18/3?,6,5,4,7,6,5
+CSCQ,1,Math,3,9,What is 11-4?,7,8,6,5,7,5
+CSCQ,1,Math,3,10,What is 5*4?,20,15,25,30,20,5
+CSCQ,1,Math,3,11,What is 14+6?,20,18,19,21,20,5
+CSCQ,1,Math,3,12,What is 22-11?,11,10,12,13,11,5
+CSCQ,1,Math,3,13,What is the value of tan(90)?,undefined,0,tan,1,undefined,5
+CSCQ,1,Math,3,14,What is 8+8?,16,15,17,18,16,5
+CSCQ,1,Math,3,15,What is 3*3?,9,6,8,10,9,5
+CSCQ,1,Math,3,16,What is 9/3?,3,2,4,5,3,5
+CSCQ,1,Math,3,17,What is 7-1?,6,5,7,8,6,5
+CSCQ,1,Math,3,18,What is 2^3?,8,6,7,9,8,5
+CSCQ,1,Math,3,19,What is the value of sin(180)?,0,1,sin,-1,0,5
+CSCQ,1,Math,3,20,What is the value of cos(180)?,1,-1,0,cos,-1,4
+CSC,1,Math,4
+CSCQ,1,Math,4,1,What is 12*2?,24,20,22,26,24,5
+CSCQ,1,Math,4,2,What is 15/5?,3,2,4,5,3,5
+CSCQ,1,Math,4,3,What is the derivative of x^3?,3x^2,3x,2x,4x^3,3x^2,5
+CSCQ,1,Math,4,4,What is the integral of 2x dx?,x^2,x^3,2x^2,x,5,5
+CSCQ,1,Math,4,5,What is 10-3?,7,6,5,8,7,5
+CSCQ,1,Math,4,6,What is 14/2?,7,6,8,9,7,5
+CSCQ,1,Math,4,7,What is 8*3?,24,21,18,27,24,5
+CSCQ,1,Math,4,8,What is the derivative of 1/x?, -1/x^2,-1/x,x,1/x^2,-1/x^2,5
+CSCQ,1,Math,4,9,What is the value of ln(1)?,0,1,ln,log,0,5
+CSCQ,1,Math,4,10,What is the square root of 25?,5,4,6,7,5,5
+CSCQ,1,Math,4,11,What is 11-3?,8,7,9,6,8,5
+CSCQ,1,Math,4,12,What is 6*7?,42,40,45,49,42,5
+CSCQ,1,Math,4,13,What is the value of cos(90)?,0,1,-1,cos,0,5
+CSCQ,1,Math,4,14,What is the value of tan(0)?,0,1,tan,-1,0,5
+CSCQ,1,Math,4,15,What is 5+7?,12,10,11,13,12,5
+CSCQ,1,Math,4,16,What is 9/1?,9,8,7,6,9,5
+CSCQ,1,Math,4,17,What is 13-4?,9,8,10,7,9,5
+CSCQ,1,Math,4,18,What is 2^4?,16,8,4,32,16,5
+CSCQ,1,Math,4,19,What is the integral of sin(x) dx?,-cos(x),cos(x),sin(x),-sin(x),-cos(x),5
+CSCQ,1,Math,4,20,What is the derivative of cos(x)?,-sin(x),cos(x),-cos(x),sin(x),-sin(x),5
+CSC,1,Math,5
+CSCQ,1,Math,5,1,What is 2*9?,18,16,20,22,18,5
+CSCQ,1,Math,5,2,What is 20/4?,5,4,6,7,5,5
+CSCQ,1,Math,5,3,What is the derivative of x^4?,4x^3,4x^2,3x^3,5x^4,4x^3,5
+CSCQ,1,Math,5,4,What is the integral of 3x dx?,1.5x^2,x^3,3x^2,2x^3,1.5x^2,5
+CSCQ,1,Math,5,5,What is 15-5?,10,9,11,8,10,5
+CSCQ,1,Math,5,6,What is 18/3?,6,5,7,4,6,5
+CSCQ,1,Math,5,7,What is 7*4?,28,25,30,32,28,5
+CSCQ,1,Math,5,8,What is the derivative of e^x?,e^x,e,x^2,x,e^x,5
+CSCQ,1,Math,5,9,What is the value of ln(e)?,1,0,e,ln,1,5
+CSCQ,1,Math,5,10,What is the square root of 64?,8,7,6,9,8,5
+CSCQ,1,Math,5,11,What is 17-8?,9,8,10,7,9,5
+CSCQ,1,Math,5,12,What is 6*5?,30,25,35,40,30,5
+CSCQ,1,Math,5,13,What is the value of sin(0)?,0,1,-1,sin,0,5
+CSCQ,1,Math,5,14,What is the value of tan(45)?,1,0,tan,-1,1,5
+CSCQ,1,Math,5,15,What is 8+5?,13,12,14,15,13,5
+CSCQ,1,Math,5,16,What is 10/5?,2,1,3,4,2,5
+CSCQ,1,Math,5,17,What is 25-9?,16,15,17,14,16,5
+CSCQ,1,Math,5,18,What is 3^3?,27,9,6,81,27,5
+CSCQ,1,Math,5,19,What is the integral of cos(x) dx?,sin(x),-cos(x),cos(x),-sin(x),sin(x),5
+CSCQ,1,Math,5,20,What is the derivative of sin(x)?,cos(x),sin(x),-cos(x),-sin(x),cos(x),5
+CS,1,Physics
+CSC,1,Physics,1
+CSCQ,1,Physics,1,1,What is the speed of light?,3*10^8 m/s,3*10^6 m/s,3*10^7 m/s,3*10^5 m/s,3*10^8 m/s,5
+CSCQ,1,Physics,1,2,What is Newton's first law?,Inertia,Force equals mass times acceleration,Action equals reaction,Energy conservation,Inertia,5
+CSCQ,1,Physics,1,3,What is the unit of force?,Newton,Joule,Watt,Pascal,Newton,5
+CSCQ,1,Physics,1,4,What is the acceleration due to gravity?,9.8 m/s^2,8.9 m/s^2,10 m/s^2,9 m/s^2,9.8 m/s^2,5
+CSCQ,1,Physics,1,5,What is the formula for kinetic energy?,0.5*m*v^2,m*v,0.5*m*v,m*v^2,0.5*m*v^2,5
+CSCQ,1,Physics,1,6,What is the frequency of a wave?,Number of cycles per second,Distance per cycle,Speed of wave,Height of wave,Number of cycles per second,5
+CSCQ,1,Physics,1,7,What is the unit of electric current?,Ampere,Volt,Watt,Ohm,Ampere,5
+CSCQ,1,Physics,1,8,What is Ohm's law?,V=IR,P=IV,E=mc^2,F=ma,V=IR,5
+CSCQ,1,Physics,1,9,What is the formula for momentum?,p=mv,F=ma,E=mc^2,KE=0.5mv^2,p=mv,5
+CSCQ,1,Physics,1,10,What is the unit of power?,Watt,Joule,Newton,Ampere,Watt,5
+CSCQ,1,Physics,1,11,What is the definition of work?,Force times distance,Mass times velocity,Force per unit area,Energy per unit time,Force times distance,5
+CSCQ,1,Physics,1,12,What is the formula for potential energy?,mgh,0.5mv^2,mc^2,Fd,mgh,5
+CSCQ,1,Physics,1,13,What is the value of Planck's constant?,6.626*10^-34 Js,3*10^8 m/s,1.6*10^-19 C,9.8 m/s^2,6.626*10^-34 Js,5
+CSCQ,1,Physics,1,14,What is the unit of energy?,Joule,Watt,Newton,Ampere,Joule,5
+CSCQ,1,Physics,1,15,What is the value of the gravitational constant?,6.674*10^-11 N(m/kg)^2,3*10^8 m/s,1.6*10^-19 C,9.8 m/s^2,6.674*10^-11 N(m/kg)^2,5
+CSCQ,1,Physics,1,16,What is the definition of pressure?,Force per unit area,Mass times acceleration,Energy per unit charge,Distance per unit time,Force per unit area,5
+CSCQ,1,Physics,1,17,What is the unit of frequency?,Hertz,Newton,Joule,Watt,Hertz,5
+CSCQ,1,Physics,1,18,What is the formula for wave speed?,v=fλ,P=IV,E=mc^2,F=ma,v=fλ,5
+CSCQ,1,Physics,1,19,What is the unit of capacitance?,Farad,Henry,Ohm,Volt,Farad,5
+CSCQ,1,Physics,1,20,What is the unit of magnetic field?,Tesla,Weber,Henry,Farad,Tesla,5
+CSC,1,Physics,2
+CSCQ,1,Physics,2,1,What is Coulomb's law?,F=k(q1*q2)/r^2,F=ma,E=mc^2,V=IR,F=k(q1*q2)/r^2,5
+CSCQ,1,Physics,2,2,What is the unit of inductance?,Henry,Farad,Ohm,Weber,Henry,5
+CSCQ,1,Physics,2,3,What is the formula for pressure?,P=F/A,F=ma,P=IV,V=IR,P=F/A,5
+CSCQ,1,Physics,2,4,What is the principle of conservation of energy?,Energy cannot be created or destroyed,Force equals mass times acceleration,Action equals reaction,Momentum is conserved,Energy cannot be created or destroyed,5
+CSCQ,1,Physics,2,5,What is the formula for electric field?,E=F/q,V=IR,P=IV,F=ma,E=F/q,5
+CSCQ,1,Physics,2,6,What is the formula for magnetic flux?,Φ=B*A,V=IR,P=IV,E=mc^2,Φ=B*A,5
+CSCQ,1,Physics,2,7,What is the unit of resistance?,Ohm,Ampere,Watt,Volt,Ohm,5
+CSCQ,1,Physics,2,8,What is the unit of electric charge?,Coulomb,Farad,Henry,Weber,Coulomb,5
+CSCQ,1,Physics,2,9,What is the formula for acceleration?,a=Δv/Δt,F=ma,E=mc^2,P=IV,a=Δv/Δt,5
+CSCQ,1,Physics,2,10,What is the value of Boltzmann constant?,1.38*10^-23 J/K,6.626*10^-34 Js,9.8 m/s^2,3*10^8 m/s,1.38*10^-23 J/K,5
+CSCQ,1,Physics,2,11,What is the formula for centripetal force?,F=mv^2/r,F=ma,E=mc^2,P=IV,F=mv^2/r,5
+CSCQ,1,Physics,2,12,What is the unit of temperature?,Kelvin,Celsius,Fahrenheit,Joule,Kelvin,5
+CSCQ,1,Physics,2,13,What is the unit of luminous intensity?,Candela,Lumen,Weber,Farad,Candela,5
+CSCQ,1,Physics,2,14,What is the formula for angular momentum?,L=Iω,F=ma,P=,Farad,L=Iω,5
+CSCQ,1,Physics,2,15,What is the unit of thermodynamic temperature?,Kelvin,Celsius,Fahrenheit,Joule,Kelvin,5
+CSCQ,1,Physics,2,16,What is the formula for force?,F=ma,E=mc^2,P=IV,V=IR,F=ma,5
+CSCQ,1,Physics,2,17,What is the unit of energy?,Joule,Newton,Watt,Ohm,Joule,5
+CSCQ,1,Physics,2,18,What is the speed of sound in water?,1500 m/s,343 m/s,300 m/s,2000 m/s,1500 m/s,5
+CSCQ,1,Physics,2,19,What is the unit of time?,Second,Hour,Minute,Day,Second,5
+CSCQ,1,Physics,2,20,What is the value of the vacuum permittivity?,8.85*10^-12 F/m,6.626*10^-34 Js,1.38*10^-23 J/K,9.8 m/s^2,8.85*10^-12 F/m,5
+CSC,1,Physics,3
+CSCQ,1,Physics,3,1,What is Hooke's law?,F=-kx,F=ma,E=mc^2,P=IV,F=-kx,5
+CSCQ,1,Physics,3,2,What is the speed of sound in air?,343 m/s,300 m/s,330 m/s,350 m/s,343 m/s,5
+CSCQ,1,Physics,3,3,What is the unit of pressure?,Pascal,Newton,Joule,Watt,Pascal,5
+CSCQ,1,Physics,3,4,What is the formula for work done?,W=Fd,F=ma,E=mc^2,P=IV,W=Fd,5
+CSCQ,1,Physics,3,5,What is the principle of superposition?,Waves add algebraically,Force equals mass times acceleration,Action equals reaction,Energy is conserved,Waves add algebraically,5
+CSCQ,1,Physics,3,6,What is the formula for angular velocity?,ω=θ/t,F=ma,E=mc^2,P=IV,ω=θ/t,5
+CSCQ,1,Physics,3,7,What is the value of the gas constant R?,8.314 J/(mol·K),1.38*10^-23 J/K,6.626*10^-34 Js,3*10^8 m/s,8.314 J/(mol·K),5
+CSCQ,1,Physics,3,8,What is the formula for thermal energy?,Q=mcΔT,F=ma,E=mc^2,P=IV,Q=mcΔT,5
+CSCQ,1,Physics,3,9,What is the unit of luminous flux?,Lumen,Candela,Weber,Farad,Lumen,5
+CSCQ,1,Physics,3,10,What is the Doppler effect?,Change in frequency due to motion,Force equals mass times acceleration,Action equals reaction,Energy conservation,Change in frequency due to motion,5
+CSCQ,1,Physics,3,11,What is the formula for efficiency?,η=(Useful energy output/Total energy input)*100,F=ma,E=mc^2,P=IV,η=(Useful energy output/Total energy input)*100,5
+CSCQ,1,Physics,3,12,What is the formula for wave intensity?,I=P/A,F=ma,E=mc^2,P=IV,I=P/A,5
+CSCQ,1,Physics,3,13,What is the unit of magnetic flux density?,Tesla,Weber,Henry,Farad,Tesla,5
+CSCQ,1,Physics,3,14,What is the formula for centripetal acceleration?,a=v^2/r,F=ma,E=mc^2,P=IV,a=v^2/r,5
+CSCQ,1,Physics,3,15,What is the law of reflection?,Angle of incidence equals angle of reflection,Force equals mass times acceleration,Action equals reaction,Energy conservation,Angle of incidence equals angle of reflection,5
+CSCQ,1,Physics,3,16,What is the unit of conductance?,Siemens,Ohm,Ampere,Volt,Siemens,5
+CSCQ,1,Physics,3,17,What is the formula for potential difference?,V=W/q,F=ma,E=mc^2,P=IV,V=W/q,5
+CSCQ,1,Physics,3,18,What is the unit of sound intensity?,Decibel,Hertz,Newton,Joule,Decibel,5
+CSCQ,1,Physics,3,19,What is the value of the charge of an electron?,1.6*10^-19 C,6.626*10^-34 Js,3*10^8 m/s,9.8 m/s^2,1.6*10^-19 C,5
+CSCQ,1,Physics,3,20,What is the formula for specific heat capacity?,c=Q/(mΔT),F=ma,E=mc^2,P=IV,c=Q/(mΔT),5
+CSC,1,Physics,4
+CSCQ,1,Physics,4,1,What is the unit of entropy?,J/K,Newton,Joule,Pascal,J/K,5
+CSCQ,1,Physics,4,2,What is Kirchhoff's first law?,The sum of currents entering a junction equals the sum leaving,Force equals mass times acceleration,Action equals reaction,Energy conservation,The sum of currents entering a junction equals the sum leaving,5
+CSCQ,1,Physics,4,3,What is the unit of inductive reactance?,Ohm,Henry,Farad,Weber,Ohm,5
+CSCQ,1,Physics,4,4,What is the formula for Coulomb's law?,F=k(q1*q2)/r^2,F=ma,E=mc^2,P=IV,F=k(q1*q2)/r^2,5
+CSCQ,1,Physics,4,5,What is the formula for gravitational force?,F=G(m1*m2)/r^2,F=ma,E=mc^2,P=IV,F=G(m1*m2)/r^2,5
+CSCQ,1,Physics,4,6,What is the formula for density?,ρ=m/V,F=ma,E=mc^2,P=IV,ρ=m/V,5
+CSCQ,1,Physics,4,7,What is the principle of moments?,Sum of clockwise moments equals sum of anticlockwise moments,Force equals mass times acceleration,Action equals reaction,Energy conservation,Sum of clockwise moments equals sum of anticlockwise moments,5
+CSCQ,1,Physics,4,8,What is the formula for elastic potential energy?,E=0.5*k*x^2,F=ma,E=mc^2,P=IV,E=0.5*k*x^2,5
+CSCQ,1,Physics,4,9,What is the formula for hydrostatic pressure?,P=ρgh,F=ma,E=mc^2,P=IV,P=ρgh,5
+CSCQ,1,Physics,4,10,What is the formula for kinetic friction?,F=μN,F=ma,E=mc^2,P=IV,F=μN,5
+CSCQ,1,Physics,4,11,What is the formula for wave period?,T=1/f,F=ma,E=mc^2,P=IV,T=1/f,5
+CSCQ,1,Physics,4,12,What is the unit of permeability?,Henry per meter,Farad,Weber,Ohm,Henry per meter,5
+CSCQ,1,Physics,4,13,What is the definition of an ideal gas?,Gas where intermolecular forces are negligible,Force equals mass times acceleration,Action equals reaction,Energy conservation,Gas where intermolecular forces are negligible,5
+CSCQ,1,Physics,4,14,What is the formula for mechanical advantage?,MA=output force/input force,F=ma,E=mc^2,P=IV,MA=output force/input force,5
+CSCQ,1,Physics,4,15,What is the formula for buoyant force?,F_b=ρVg,F=ma,E=mc^2,P=IV,F_b=ρVg,5
+CSCQ,1,Physics,4,16,What is the unit of electric potential?,Volt,Newton,Joule,Watt,Volt,5
+CSCQ,1,Physics,4,17,What is the principle of conservation of angular momentum?,Angular momentum remains constant if no external torque is applied,Force equals mass times acceleration,Action equals reaction,Energy conservation,Angular momentum remains constant if no external torque is applied,5
+CSCQ,1,Physics,4,18,What is the formula for gravitational potential energy?,U=mgh,F=ma,E=mc^2,P=IV,U=mgh,5
+CSCQ,1,Physics,4,19,What is the unit of self-inductance?,Henry,Farad,Weber,Ohm,Henry,5
+CSCQ,1,Physics,4,20,What is the formula for drift velocity?,v_d=I/(nAe),F=ma,E=mc^2,P=IV,v_d=I/(nAe),5
+CSC,1,Physics,5
+CSCQ,1,Physics,5,1,SI unit of force?,Newton,Joule,Watt,Pascal,Newton,1
+CSCQ,1,Physics,5,2,Formula for acceleration?,a = Δv/Δt,v = u + at,s = ut + 1/2at^2,F = ma, a = Δv/Δt,2
+CSCQ,1,Physics,5,3,Speed of light in a vacuum?,3 × 10^8 m/s,3 × 10^6 m/s,3 × 10^5 m/s,3 × 10^7 m/s,3,2
+CSCQ,1,Physics,5,4,Scalar quantity?,Speed,Force,Velocity,Acceleration,Speed,4
+CSCQ,1,Physics,5,5,Formula for kinetic energy?,KE = 1/2 mv^2,PE = mgh,F = ma,KE = mv,KE = 1/2 mv^2,3
+CSCQ,1,Physics,5,6,Unit of electric current?,Ampere,Volt,Ohm,Watt,Ampere,2
+CSCQ,1,Physics,5,7,Force of gravity on Earth?,9.8 m/s^2,9.8 m/s,10 m/s^2,9.8 N,9.8 m/s^2,4
+CSCQ,1,Physics,5,8,Ohm's law states?,V = IR,I = V/R,R = VI,V = I/R,V = IR,3
+CSCQ,1,Physics,5,9,What is the formula for momentum?,p = mv,p = m/a,p = F × t,p = mv^2,p = mv,5
+CSCQ,1,Physics,5,10,What is the unit of work and energy?,Joule,Newton,Pascal,Watt,Joule,1
+CSCQ,1,Physics,5,11,What is the formula for power?,P = W/t,P = F × d,P = mgh,P = W × t,P = W/t,2
+CSCQ,1,Physics,5,12,What is the SI unit of pressure?,Pascal,Joule,Watt,Newton,Pascal,3
+CSCQ,1,Physics,5,13,What is the equation for weight?,W = mg,W = F × d,W = 1/2 mv^2,W = mg^2,W = mg,1
+CSCQ,1,Physics,5,14,What is the SI unit of power?,Watt,Joule,Ampere,Volt,Watt,4
+CSCQ,1,Physics,5,15,What is the formula for gravitational potential energy?,PE = mgh,KE = 1/2 mv^2,F = ma,PE = W × t,PE = mgh,3
+CSCQ,1,Physics,5,16,What is the unit of electrical resistance?,Ohm,Volt,Ampere,Watt,Ohm,2
+CSCQ,1,Physics,5,17,What is the SI unit of velocity?,m/s,m/s^2,m^3/s^2,m,m/s,4
+CSCQ,1,Physics,5,18,What is the formula for distance travelled with uniform acceleration?,s = ut + 1/2at^2,s = vt,s = at,s = ut,s = ut + 1/2at^2,5
+CS,1,English
+CSC,1,English,1
+CSCQ,1,English,1,1,What is the synonym of 'happy'?,joyful,cheerful,content,sad,joyful,4
+CSCQ,1,English,1,2,What is the antonym of 'big'?,small,tiny,enormous,huge,small,3
+CSCQ,1,English,1,3,What is the plural form of 'child'?,children,kids,childs,childrens,children,5
+CSCQ,1,English,1,4,Which word is a noun?,apple,run,quickly,beautiful,apple,2
+CSCQ,1,English,1,5,Which word is an adjective?,beautiful,beauty,run,swim,beautiful,1
+CSCQ,1,English,1,6,What is the past tense of 'go'?,went,goed,gone,goes,went,5
+CSCQ,1,English,1,7,Which sentence is correct?,She is reading a book,She reading a book,She read a book,She is read a book,She is reading a book,4
+CSCQ,1,English,1,8,What is the superlative form of 'good'?,best,better,gooder,most good,best,2
+CSCQ,1,English,1,9,What is the synonym of 'quick'?,fast,slow,quicker,quickly,fast,1
+CSCQ,1,English,1,10,Which word is a verb?,run,running,runner,ran,run,3
+CSCQ,1,English,1,11,What is the antonym of 'old'?,young,new,aged,elderly,young,5
+CSCQ,1,English,1,12,What is the plural form of 'mouse'?,mice,mouses,mousees,meese,mice,4
+CSCQ,1,English,1,13,Which word is an adverb?,quickly,quick,quicker,quickest,quickly,2
+CSCQ,1,English,1,14,What is the past tense of 'eat'?,ate,eated,eat,eats,ate,3
+CSCQ,1,English,1,15,What is the comparative form of 'happy'?,happier,more happy,happiest,most happy,happier,1
+CSCQ,1,English,1,16,What is the synonym of 'sad'?,unhappy,joyful,happy,sorrow,unhappy,5
+CSCQ,1,English,1,17,Which word is a conjunction?,and,apple,run,quick,and,4
+CSCQ,1,English,1,18,What is the plural form of 'foot'?,feet,foots,footes,feets,feet,2
+CSCQ,1,English,1,19,What is the antonym of 'cold'?,hot,cool,warm,chilly,hot,1
+CSCQ,1,English,1,20,Which word is a preposition?,under,quick,apple,run,under,3
+CSC,1,English,2
+CSCQ,1,English,2,1,Identify the subject in the sentence: 'The cat sleeps on the mat'.,The cat,cat,sleeps,on the mat,The cat,4
+CSCQ,1,English,2,2,Which sentence is in past perfect tense?,She had finished her work,She finishes her work,She has finished her work,She will finish her work,She had finished her work,5
+CSCQ,1,English,2,3,What is the auxiliary verb in the sentence: 'They are playing'?,are,They,playing,are,They,3
+CSCQ,1,English,2,4,Which word is a conjunction?,but,apple,run,quick,but,5
+CSCQ,1,English,2,5,What is the main verb in the sentence: 'He can swim fast'?,swim,He,can,fast,swim,4
+CSCQ,1,English,2,6,Which sentence is in future continuous tense?,I will be running tomorrow,I run tomorrow,I will run tomorrow,I ran tomorrow,I will be running tomorrow,2
+CSCQ,1,English,2,7,What is the article in the sentence: 'An apple a day keeps the doctor away'?,An,apple,day,keeps,An,3
+CSCQ,1,English,2,8,Identify the adjective in the sentence: 'She wore a beautiful dress'.,beautiful,She,wore,dress,beautiful,1
+CSCQ,1,English,2,9,What is the adverb in the sentence: 'He drives carefully'?,carefully,He,drives,carefully,He,5
+CSCQ,1,English,2,10,Which sentence is in present perfect tense?,She has gone to the market,She goes to the market,She will go to the market,She had gone to the market,She has gone to the market,4
+CSCQ,1,English,2,11,What is the verb in the sentence: 'Birds fly in the sky'?,fly,Birds,in,sky,fly,3
+CSCQ,1,English,2,12,Identify the pronoun in the sentence: 'They are playing soccer'.,They,are,playing,soccer,They,1
+CSCQ,1,English,2,13,What is the gerund in the sentence: 'Swimming is a good exercise'?,Swimming,good,is,exercise,Swimming,4
+CSCQ,1,English,2,14,Which sentence is in present continuous tense?,I am reading a book,I read a book,I have read a book,I will read a book,I am reading a book,3
+CSCQ,1,English,2,15,Identify the possessive adjective in the sentence: 'Her dress is red'.,Her,dress,is,red,Her,1
+CSCQ,1,English,2,16,What is the demonstrative pronoun in the sentence: 'This is my book'?,This,is,my,book,This,5
+CSC,1,English,3
+CSCQ,1,English,3,1,What is the synonym of 'happy'?,joyful,cheerful,content,sad,joyful,3
+CSCQ,1,English,3,2,What is the antonym of 'big'?,small,tiny,enormous,huge,small,2
+CSCQ,1,English,3,3,What is the plural form of 'child'?,children,kids,childs,childrens,children,5
+CSCQ,1,English,3,4,Which word is a noun?,apple,run,quickly,beautiful,apple,4
+CSCQ,1,English,3,5,Which word is an adjective?,beautiful,beauty,run,swim,beautiful,1
+CSCQ,1,English,3,6,What is the past tense of 'go'?,went,goed,gone,goes,went,5
+CSCQ,1,English,3,7,Which sentence is correct?,She is reading a book,She reading a book,She read a book,She is read a book,She is reading a book,2
+CSCQ,1,English,3,8,What is the superlative form of 'good'?,best,better,gooder,most good,best,4
+CSCQ,1,English,3,9,What is the synonym of 'quick'?,fast,slow,quicker,quickly,fast,1
+CSCQ,1,English,3,10,Which word is a verb?,run,running,runner,ran,run,3
+CSCQ,1,English,3,11,What is the antonym of 'old'?,young,new,aged,elderly,young,4
+CSCQ,1,English,3,12,What is the plural form of 'mouse'?,mice,mouses,mousees,meese,mice,5
+CSCQ,1,English,3,13,Which word is an adverb?,quickly,quick,quicker,quickest,quickly,1
+CSCQ,1,English,3,14,What is the past tense of 'eat'?,ate,eated,eat,eats,ate,2
+CSCQ,1,English,3,15,What is the comparative form of 'happy'?,happier,more happy,happiest,most happy,happier,3
+CSCQ,1,English,3,16,What is the synonym of 'sad'?,unhappy,joyful,happy,sorrow,unhappy,5
+CSCQ,1,English,3,17,Which word is a conjunction?,and,apple,run,quick,and,4
+CSCQ,1,English,3,18,What is the plural form of 'foot'?,feet,foots,footes,feets,feet,2
+CSCQ,1,English,3,19,What is the antonym of 'cold'?,hot,cool,warm,chilly,hot,1
+CSCQ,1,English,3,20,Which word is a preposition?,under,quick,apple,run,under,4
+CS,1,Biology
+CSC,1,Biology,1
+CSCQ,1,Biology,1,1,What is the basic unit of life?,cell,organ,organism,tissue,cell,2
+CSCQ,1,Biology,1,2,Which organelle is the powerhouse of the cell?,mitochondria,nucleus,ribosome,lysosome,mitochondria,3
+CSCQ,1,Biology,1,3,What is the process by which plants make their own food?,photosynthesis,cellular respiration,transpiration,replication,photosynthesis,5
+CSCQ,1,Biology,1,4,What is the function of the nucleus?,contains DNA,produces energy,packages proteins,digests waste,contains DNA,2
+CSCQ,1,Biology,1,5,Which molecule stores genetic information?,DNA,RNA,ATP,protein,DNA,4
+CSCQ,1,Biology,1,6,What is the outermost layer of animal cells called?,cell membrane,cell wall,mitochondria,nucleus,cell membrane,3
+CSCQ,1,Biology,1,7,What is the main function of ribosomes?,protein synthesis,energy production,DNA replication,cell movement,protein synthesis,5
+CSCQ,1,Biology,1,8,What is the fluid inside a cell called?,cytoplasm,nucleus,membrane,plasma,cytoplasm,2
+CSCQ,1,Biology,1,9,What is the genetic material of most organisms?,DNA,RNA,ATP,protein,DNA,3
+CSCQ,1,Biology,1,10,Which organelle is responsible for breaking down waste materials?,lysosome,mitochondria,ribosome,nucleus,lysosome,4
+CSCQ,1,Biology,1,11,What is the process by which cells divide to produce new cells called?,cell division,cellular respiration,photosynthesis,protein synthesis,cell division,1
+CSCQ,1,Biology,1,12,Which organelle is responsible for detoxification and metabolism of multiple molecules?,smooth endoplasmic reticulum (SER),rough endoplasmic reticulum (RER),mitochondria,nucleus,smooth endoplasmic reticulum (SER),2
+CSCQ,1,Biology,1,13,What is the green pigment found in plant cells that is responsible for photosynthesis?,chlorophyll,carotenoid,xanthophyll,anthocyanin,chlorophyll,5
+CSCQ,1,Biology,1,14,Which structure in plant cells is responsible for providing support and rigidity?,cell wall,cell membrane,mitochondria,nucleus,cell wall,4
+CSCQ,1,Biology,1,15,What is the function of the mitochondria?,produce energy,store genetic material,synthesize proteins,transport materials,produce energy,3
+CSCQ,1,Biology,1,16,Which organelle is known as the "control center" of the cell?,nucleus,ribosome,lysosome,mitochondria,nucleus,1
+CSCQ,1,Biology,1,17,What is the main function of the Golgi apparatus?,processes and packages proteins,produces energy,digests waste,synthesizes DNA,processes and packages proteins,2
+CSCQ,1,Biology,1,18,What is the site of protein synthesis in a cell?,ribosome,nucleus,mitochondria,lysosome,ribosome,3
+CSCQ,1,Biology,1,19,What is the role of the endoplasmic reticulum (ER) in the cell?,protein synthesis and lipid metabolism,DNA replication,energy production,cell movement,protein synthesis and lipid metabolism,5
+CSCQ,1,Biology,1,20,Which organelle contains digestive enzymes to break down waste materials?,lysosome,mitochondria,ribosome,nucleus,lysosome,1
+CSC,1,Biology,2
+CSCQ,1,Biology,2,1,What is the basic unit of life?,cell,organism,atom,organelle,cell,3
+CSCQ,1,Biology,2,2,Which organelle is known as the "powerhouse" of the cell?,mitochondria,nucleus,ribosome,lysosome,mitochondria,4
+CSCQ,1,Biology,2,3,What is the function of DNA?,stores genetic information,produces energy,regulates cell activities,synthesizes proteins,stores genetic information,2
+CSCQ,1,Biology,2,4,Which scientist is known for proposing the theory of evolution by natural selection?,Charles Darwin,Albert Einstein,Galileo Galilei,Isaac Newton,Charles Darwin,1
+CSCQ,1,Biology,2,5,What is the process by which organisms produce offspring of the same species?,reproduction,metabolism,respiration,growth,reproduction,3
+CSCQ,1,Biology,2,6,What is the function of ribosomes in the cell?,protein synthesis,energy production,genetic storage,cell division,protein synthesis,4
+CSCQ,1,Biology,2,7,Which type of cell lacks a nucleus?,prokaryotic cell,eukaryotic cell,plant cell,animal cell,prokaryotic cell,2
+CSCQ,1,Biology,2,8,What is the role of chlorophyll in photosynthesis?,captures sunlight,breaks down glucose,produces oxygen,synthesizes DNA,captures sunlight,5
+CSCQ,1,Biology,2,9,What is the function of the cell membrane?,regulates the movement of substances from the cell,stores genetic material,produces energy,packages proteins,regulates the movement of substances into and out of the cell,2
+CSCQ,1,Biology,2,10,Which organelle is responsible for detoxifying harmful substances in the cell?,lysosome,endoplasmic reticulum,peroxisome,vacuole,peroxisome,1
+CSCQ,1,Biology,2,11,What is the name of the process by which cells break down glucose to release energy?,cellular respiration,photosynthesis,transpiration,fermentation,cellular respiration,3
+CSCQ,1,Biology,2,12,What is the function of the nucleus in the cell?,stores genetic information,produces energy,synthesizes proteins,regulates cell activities,stores genetic information,1
+CSCQ,1,Biology,2,13,Which structure is found in plant cells but not in animal cells?,chloroplast,lysosome,flagellum,centriole,chloroplast,2
+CSCQ,1,Biology,2,14,What is the function of the Golgi apparatus?,processes and packages proteins,synthesizes DNA,produces energy,regulates cell growth,processes and packages proteins,1
+CSCQ,1,Biology,2,15,What is the function of mitochondria in the cell?,produce ATP,store genetic material,produce proteins,store water,produce ATP,2
+CSCQ,1,Biology,2,16,What is the role of the cell wall in plant cells?,provides structural support,regulates the movement of substances,produces energy,stores genetic material,provides structural support,3
+CSCQ,1,Biology,2,17,Which organelle contains digestive enzymes for breaking down waste?,lysosome,nucleus,ribosome,endoplasmic reticulum,lysosome,1
+CSCQ,1,Biology,2,18,What is the primary function of vacuoles in plant cells?,store water and nutrients,produce energy,regulate cell activities,synthesize proteins,store water and nutrients,4
+CSCQ,1,Biology,2,20,Which process involves the division of a single cell into two daughter cells?,cell division,photosynthesis,cellular respiration,reproduction,cell division,1
+CSC,1,Biology,3
+CSCQ,1,Biology,3,1,What is the process by which plants convert light energy into chemical energy?,photosynthesis,respiration,transpiration,fermentation,photosynthesis,4
+CSCQ,1,Biology,3,2,What gas is released as a byproduct of photosynthesis?,oxygen,carbon dioxide,nitrogen,hydrogen,oxygen,3
+CSCQ,1,Biology,3,3,What pigment is responsible for capturing light energy during photosynthesis?,chlorophyll,carotene,anthocyanin,xanthophyll,chlorophyll,2
+CSCQ,1,Biology,3,4,In which part of the plant cell does photosynthesis primarily occur?,chloroplasts,mitochondria,nucleus,cell membrane,chloroplasts,1
+CSCQ,1,Biology,3,5,What is the main purpose of the light-dependent reactions in photosynthesis?,produce ATP and NADPH,produce glucose,release oxygen,convert CO2,produce ATP and NADPH,4
+CSCQ,1,Biology,3,6,What is the primary function of the Calvin cycle in photosynthesis?,convert CO2 into glucose,produce oxygen,release ATP,capture light energy,convert CO2 into glucose,3
+CSCQ,1,Biology,3,7,What molecule is produced as a result of the Calvin cycle in photosynthesis?,glucose,oxygen,water,carbon dioxide,glucose,2
+CSCQ,1,Biology,3,8,What is the primary source of energy for the Calvin cycle?,ATP,NADPH,glucose,water,ATP,4
+CSCQ,1,Biology,3,9,What environmental factor directly affects the rate of photosynthesis?,light intensity,temperature,humidity,soil pH,light intensity,2
+CSCQ,1,Biology,3,10,In what part of the chloroplast do the light-dependent reactions occur?,thylakoid membrane,stroma,outer membrane,inner membrane,thylakoid membrane,4
+CSCQ,1,Biology,3,11,What is the role of NADPH in photosynthesis?,carry high-energy electrons,capture carbon dioxide,produce ATP,release oxygen,carry high-energy electrons,3
+CSCQ,1,Biology,3,12,What is the chemical equation for photosynthesis?,6CO2 + 6H2O + light → C6H12O6 + 6O2,C6H12O6 + 6O2 → 6CO2 + 6H2O + light,6CO2 + C6H12O6 + light → 6O2 + 6H2O,C6H12O6 + 6O2 + light → 6CO2 + 6H2O,6CO2 + 6H2O + light → C6H12O6 + 6O2,1
+CSCQ,1,Biology,3,13,What is the purpose of the stomata in plant leaves?,regulate gas exchange,store water,produce oxygen,capture sunlight,regulate gas exchange,2
+CSCQ,1,Biology,3,14,What gas is required for the Calvin cycle to occur?,carbon dioxide,oxygen,nitrogen,hydrogen,carbon dioxide,3
+CSCQ,1,Biology,3,15,What is the role of ATP in the light-dependent reactions of photosynthesis?,provide energy,capture carbon dioxide,produce glucose,release oxygen,provide energy,4
+CSCQ,1,Biology,3,16,What is the primary purpose of photosynthesis?,convert light energy,produce oxygen,generate ATP,store glucose,convert light energy,2
+CSCQ,1,Biology,3,17,What is the role of carbon dioxide in photosynthesis?,provide carbon,produce ATP,capture sunlight,release oxygen,provide carbon,3
+CSCQ,1,Biology,3,18,What is the function of the electron transport chain in photosynthesis?,generate ATP,store glucose,release oxygen,capture carbon dioxide,generate ATP,4
+CSCQ,1,Biology,3,19,What is the primary purpose of the light reactions in photosynthesis?,capture light energy,release oxygen,produce glucose,convert carbon dioxide,capture light energy,2
+CS,1,Art
+CSC,1,Art,1
+CSCQ,1,Art,1,1,What is a primary color?,Red,Green,Blue,Yellow,Red,4
+CSCQ,1,Art,1,2,What tool is used for drawing straight lines?,Ruler,Pencil,Brush,Compass,Ruler,2
+CSCQ,1,Art,1,3,What is a self-portrait?,A drawing of oneself,A drawing of someone else,A landscape,A sculpture,A drawing of oneself,1
+CSCQ,1,Art,1,4,What is perspective in art?,Creating depth,Using bright colors,Painting abstract shapes,Drawing with straight lines,Creating depth,2
+CSCQ,1,Art,1,5,What is shading in art?,Adding darkness and lightness,Blending colors,Using bright colors,Adding texture,Adding darkness and lightness,1
+CSCQ,1,Art,1,6,What is a sculpture?,A three-dimensional artwork,A two-dimensional artwork,A painting,A drawing,A three-dimensional artwork,3
+CSCQ,1,Art,1,7,What is an easel used for?,To hold canvas or paper,To mix paint colors,To clean brushes,To store art supplies,To hold canvas or paper,4
+CSCQ,1,Art,1,8,What is a still life?,A painting or drawing of inanimate objects,A landscape,A self-portrait,A sculpture,A painting or drawing of inanimate objects,1
+CSCQ,1,Art,1,9,What is symmetry in art?,When artwork is the same on both sides,When artwork has many colors,When artwork is very small,When artwork is made of clay,When artwork is the same on both sides,3
+CSCQ,1,Art,1,10,What is a canvas?,A surface for painting,A type of paint,A brush,A tool for cutting paper,A surface for painting,1
+CSCQ,1,Art,1,11,What is a mural?,A large painting on a wall or ceiling,A small painting,A painting of a landscape,A painting of a person,A large painting on a wall or ceiling,4
+CSCQ,1,Art,1,12,What is a collage?,An artwork made by gluing materials, A sculpture,A painting,A drawing,An artwork made by gluing materials,1
+CSCQ,1,Art,1,13,What is an abstract painting?,A painting that does not represent objects,A painting of a person,A painting of a landscape,A painting of flowers,A painting that does not represent objects,2
+CSCQ,1,Art,1,14,What is a sketch?,A quick drawing,A sculpture,A painting,A collage,A quick drawing,3
+CSCQ,1,Art,1,15,What is a palette?,A surface for mixing colors,A brush,A canvas,A type of paint,A surface for mixing colors,2
+CSCQ,1,Art,1,16,What is an art gallery?,A place where artworks are displayed,A place where people can play music,A place where people can dance,A place where people can watch movies,A place where artworks are displayed,4
+CSCQ,1,Art,1,17,What is a portrait?,A painting or drawing of a person,A sculpture,A landscape,A still life,A painting or drawing of a person,3
+CSCQ,1,Art,1,18,What is a landscape in art?,A painting or drawing of a natural scene,A painting or drawing of a person,A sculpture,A collage,A painting or drawing of a natural scene,2
+CSCQ,1,Art,1,19,What is a medium in art?,The material used to create artwork,The size of the artwork,The style of the artwork,The artist's name,The material used to create artwork,4
+CSCQ,1,Art,1,20,What is an art critic?,A person who evaluates artworks,A person who creates artworks,A person who sells artworks,A person who cleans artworks,A person who evaluates artworks,3
+CSC,1,Art,2
+CSCQ,1,Art,2,1,What is a sculpture made of clay called?,Pottery,Canvas,Easel,Palette,Pottery,4
+CSCQ,1,Art,2,2,What is a famous painting by Leonardo da Vinci?,Mona Lisa,Starry Night,The Persistence of Memory,The Scream,Mona Lisa,1
+CSCQ,1,Art,2,3,What is the technique of cutting shapes from paper called?,Collage,Pottery,Origami,Sculpture,Origami,3
+CSCQ,1,Art,2,4,What is the main tool used in printmaking?,Printing press,Brush,Easel,Palette,Printing press,1
+CSCQ,1,Art,2,5,What is the process of using hot wax to create art?,Encaustic painting,Watercolor painting,Acrylic painting,Oil painting,Encaustic painting,2
+CSCQ,1,Art,2,6,Who painted "The Starry Night"?,Vincent van Gogh,Leonardo da Vinci,Pablo Picasso,Claude Monet,Vincent van Gogh,3
+CSCQ,1,Art,2,7,What is a famous sculpture by Michelangelo?,David,Venus de Milo,The Thinker,The Kiss,David,1
+CSCQ,1,Art,2,8,What is the technique of transferring ink onto paper through a mesh screen called?,Screen printing,Block printing,Woodcut,Engraving,Screen printing,4
+CSCQ,1,Art,2,9,What is the name of a large decorative scroll at the top of an ancient Greek column?,Capital,Entablature,Frieze,Pediment,Frieze,2
+CSCQ,1,Art,2,10,What is a famous painting by Pablo Picasso?,Guernica,The Last Supper,The Birth of Venus,The Creation of Adam,Guernica,1
+CSCQ,1,Art,2,11,What is the technique of applying paint to wet plaster called?,Fresco,Encaustic,Impasto,Glazing,Fresco,3
+CSCQ,1,Art,2,12,What is a famous sculpture by Auguste Rodin?,The Thinker,David,Venus de Milo,The Kiss,The Thinker,4
+CSCQ,1,Art,2,13,What is the technique of melting metal and pouring it into a mold called?,Casting,Carving,Modeling,Assemblage,Casting,1
+CSCQ,1,Art,2,14,What is the Japanese art of flower arrangement called?,Ikebana,Origami,Haiku,Kintsugi,Ikebana,2
+CSCQ,1,Art,2,15,What is the technique of carving designs into wood called?,Woodcut,Etching,Screen printing,Block printing,Woodcut,3
+CSCQ,1,Art,2,16,What is a famous painting by Claude Monet?,Water Lilies,The Persistence of Memory,Starry Night,Mona Lisa,Water Lilies,4
+CSCQ,1,Art,2,17,What is the process of creating art using small pieces of colored glass called?,Mosaic,Collage,Engraving,Stained glass,Mosaic,1
+CSCQ,1,Art,2,18,What is the technique of painting with rapid brushstrokes and vibrant colors called?,Impressionism,Realism,Cubism,Surrealism,Impressionism,2
+CSCQ,1,Art,2,19,What is the technique of etching designs onto metal plates called?,Etching,Engraving,Screen printing,Block printing,Etching,3
+CSCQ,1,Art,2,20,What is the technique of arranging and sticking materials onto a surface called?,Collage,Origami,Sculpture,Painting,Collage,4
+CSC,1,Art,3
+CSCQ,1,Art,3,1,Who painted the "Mona Lisa"?,Leonardo da Vinci,Pablo Picasso,Vincent van Gogh,Claude Monet,Leonardo da Vinci,4
+CSCQ,1,Art,3,2,What is the art of folding paper into decorative shapes and figures called?,Origami,Mosaic,Collage,Sculpture,Origami,2
+CSCQ,1,Art,3,3,Who sculpted the famous statue "David"?,Michelangelo,Leonardo da Vinci,Pablo Picasso,Vincent van Gogh,Michelangelo,1
+CSCQ,1,Art,3,4,What is the technique of creating three-dimensional forms by shaping or combining materials called?,Sculpture,Mosaic,Collage,Origami,Sculpture,4
+CSCQ,1,Art,3,5,What is a famous painting by Vincent van Gogh?,Starry Night,Mona Lisa,The Persistence of Memory,The Scream,Starry Night,1
+CSCQ,1,Art,3,6,What is the technique of carving shapes out of wood called?,Wood carving,Origami,Sculpture,Mosaic,Wood carving,2
+CSCQ,1,Art,3,7,Who painted the famous artwork "The Starry Night"?,Vincent van Gogh,Leonardo da Vinci,Pablo Picasso,Claude Monet,Vincent van Gogh,3
+CSCQ,1,Art,3,8,What is the art of arranging flowers called?,Flower arranging,Origami,Mosaic,Sculpture,Flower arranging,4
+CSCQ,1,Art,3,9,What is the technique of painting on wet plaster called?,Fresco,Encaustic,Impasto,Glazing,Fresco,1
+CSCQ,1,Art,3,10,Who sculpted the famous artwork "The Thinker"?,Auguste Rodin,Leonardo da Vinci,Pablo Picasso,Vincent van Gogh,Auguste Rodin,2
+CSCQ,1,Art,3,11,What is the technique of applying thick layers of paint onto a surface called?,Impasto,Encaustic,Fresco,Glazing,Impasto,3
+CSCQ,1,Art,3,12,What is a famous sculpture by Auguste Rodin?,The Thinker,David,Venus de Milo,The Kiss,The Thinker,4
+CSCQ,1,Art,3,13,What is the technique of shaping clay into objects and then heating them to high temperatures called?,Pottery,Sculpture,Origami,Mosaic,Pottery,1
+CSCQ,1,Art,3,14,Who painted the famous artwork "The Persistence of Memory"?,Salvador Dalí,Leonardo da Vinci,Pablo Picasso,Claude Monet,Salvador Dalí,2
+CSCQ,1,Art,3,15,What is a famous painting by Claude Monet?,Water Lilies,The Persistence of Memory,Starry Night,Mona Lisa,Water Lilies,4
+CSCQ,1,Art,3,16,What is the technique of transferring ink onto paper through a mesh screen called?,Screen printing,Block printing,Woodcut,Engraving,Screen printing,1
+CSCQ,1,Art,3,17,What is the Japanese art of paper folding called?,Origami,Sculpture,Mosaic,Engraving,Origami,2
+CSCQ,1,Art,3,18,Who painted the famous artwork "Guernica"?,Pablo Picasso,Leonardo da Vinci,Vincent van Gogh,Claude Monet,Pablo Picasso,3
+C,2
+CS,2,Philosophy
+CSC,2,Philosophy,1
+CSCQ,2,Philosophy,1,1,Who is considered the father of Western philosophy?,Socrates,Aristotle,Plato,Confucius,Socrates,3
+CSCQ,2,Philosophy,1,2,Which ancient Greek philosopher wrote "The Republic"?,Plato,Aristotle,Socrates,Pythagoras,Plato,2
+CSCQ,2,Philosophy,1,3,What is the term for the search for wisdom or knowledge?,Philosophy,Science,Religion,History,Philosophy,1
+CSCQ,2,Philosophy,1,4,What is the main subject of metaphysics?,The nature of reality,The nature of human behavior,The study of language,The study of ethics,The nature of reality,4
+CSCQ,2,Philosophy,1,5,Who is known for his philosophical method of questioning and answering?,Socrates,Aristotle,Plato,Confucius,Socrates,5
+CSCQ,2,Philosophy,1,6,What is the term for the branch of philosophy that deals with the nature of existence?,Metaphysics,Epistemology,Logic, Ethics,Metaphysics,3
+CSCQ,2,Philosophy,1,7,What is the term for the branch of philosophy that deals with the nature of knowledge?,Epistemology,Metaphysics,Logic, Ethics,Epistemology,4
+CSCQ,2,Philosophy,1,8,Who is known for his theory of the "golden mean"?,Aristotle,Socrates,Plato,Confucius,Aristotle,2
+CSCQ,2,Philosophy,1,9,What is the term for the branch of philosophy that deals with the nature of correct reasoning?,Logic,Epistemology,Metaphysics, Ethics,Logic,3
+CSCQ,2,Philosophy,1,10,Who is known for his allegory of the cave?,Plato,Socrates,Aristotle,Confucius,Plato,2
+CSCQ,2,Philosophy,1,11,What is the term for the branch of philosophy that deals with the nature of right and wrong?,Ethics,Metaphysics,Epistemology,Logic,Ethics,1
+CSCQ,2,Philosophy,1,12,Who is known for his moral philosophy centered around the concept of the "categorical imperative"?,Immanuel Kant,John Locke,David Hume,Bertrand Russell,Immanuel Kant,5
+CSCQ,2,Philosophy,1,13,Who is known for his philosophical method of doubting everything to find certainty?,René Descartes,John Locke,David Hume,Bertrand Russell,René Descartes,5
+CSCQ,2,Philosophy,1,14,What is the term for the branch of philosophy that deals with the nature of beauty and art?,Aesthetics,Logic,Epistemology,Ethics,Aesthetics,3
+CSCQ,2,Philosophy,1,15,Who is known for his philosophical treatise "Being and Time"?,Martin Heidegger,Friedrich Nietzsche,Arthur Schopenhauer,Georg Wilhelm Friedrich Hegel,Martin Heidegger,4
+CSCQ,2,Philosophy,1,16,What is the term for the branch of philosophy that deals with the nature and origins of knowledge?,Epistemology,Metaphysics,Logic,Ethics,Epistemology,4
+CSCQ,2,Philosophy,1,17,Who is known for his famous work "The Leviathan"?,Thomas Hobbes,John Locke,David Hume,Bertrand Russell,Thomas Hobbes,5
+CSC,2,Philosophy,2
+CSCQ,2,Philosophy,2,1,What is the term for the belief that reality exists independently of observers?,Realism,Idealism,Materialism,Pragmatism,Realism,3
+CSCQ,2,Philosophy,2,2,Who is known for his theory of utilitarianism?,John Stuart Mill,Immanuel Kant,Jeremy Bentham,Bertrand Russell,Jeremy Bentham,4
+CSCQ,2,Philosophy,2,3,Who is known for his concept of the "veil of ignorance"?,John Rawls,John Locke,Thomas Hobbes,David Hume,John Rawls,3
+CSCQ,2,Philosophy,2,4,What is the term for the philosophical theory that reality is fundamentally mental or constructed by the mind?,Idealism,Realism,Materialism,Pragmatism,Idealism,4
+CSCQ,2,Philosophy,2,5,Who is known for his philosophical work "Thus Spoke Zarathustra"?,Friedrich Nietzsche,Arthur Schopenhauer,Martin Heidegger,Georg Wilhelm Friedrich Hegel,Friedrich Nietzsche,3
+CSCQ,2,Philosophy,2,6,What is the term for the belief that only physical matter exists and that everything can be explained in terms of it?,Materialism,Realism,Idealism,Pragmatism,Materialism,4
+CSCQ,2,Philosophy,2,7,Who is known for his philosophical concept of the "will to power"?,Friedrich Nietzsche,Arthur Schopenhauer,Martin Heidegger,Georg Wilhelm Friedrich Hegel,Friedrich Nietzsche,5
+CSCQ,2,Philosophy,2,8,What is the term for the philosophical theory that the truth or falsity of a statement is determined only by how it relates to the world and whether it accurately describes that world?,Correspondence theory of truth,Coherence theory of truth,Pragmatic theory of truth,Relativistic theory of truth,Correspondence theory of truth,3
+CSCQ,2,Philosophy,2,9,Who is known for his philosophical concept of the "übermensch" or "superman"?,Friedrich Nietzsche,Arthur Schopenhauer,Martin Heidegger,Georg Wilhelm Friedrich Hegel,Friedrich Nietzsche,4
+CSCQ,2,Philosophy,2,10,What is the term for the philosophical belief that the truth or meaning of a statement is relative to the context in which it is uttered or the framework within which it is understood?,Relativism,Realism,Idealism,Pragmatism,Relativism,5
+CSCQ,2,Philosophy,2,11,Who is known for his philosophical work "Beyond Good and Evil"?,Friedrich Nietzsche,Arthur Schopenhauer,Martin Heidegger,Georg Wilhelm Friedrich Hegel,Friedrich Nietzsche,3
+CSCQ,2,Philosophy,2,12,What is the term for the philosophical theory that the truth or falsity of a statement depends on its coherence with a broader set of beliefs or propositions?,Coherence theory of truth,Correspondence theory of truth,Pragmatic theory of truth,Relativistic theory of truth,Coherence theory of truth,4
+CSCQ,2,Philosophy,2,13,Who is known for his philosophical work "Meditations on First Philosophy"?,René Descartes,John Locke,David Hume,Bertrand Russell,René Descartes,5
+CSCQ,2,Philosophy,2,14,What is the term for the philosophical theory that the truth or falsity of a statement depends on its practical consequences?,Pragmatic theory of truth,Correspondence theory of truth,Coherence theory of truth,Relativistic theory of truth,Pragmatic theory of truth,3
+CSCQ,2,Philosophy,2,15,Who is known for his philosophical concept of the "categorical imperative"?,Immanuel Kant,John Locke,David Hume,Bertrand Russell,Immanuel Kant,4
+CSCQ,2,Philosophy,2,16,What is the term for the belief that knowledge is limited to sensory experience and empirical evidence?,Empiricism,Rationalism,Idealism,Pragmatism,Empiricism,5
+CSCQ,2,Philosophy,2,17,Who is known for his philosophical work "Critique of Pure Reason"?,Immanuel Kant,John Locke,David Hume,Bertrand Russell,Immanuel Kant,3
+CSCQ,2,Philosophy,2,18,What is the term for the philosophical belief that reality exists independently of observers?,Realism,Idealism,Materialism,Pragmatism,Realism,3
+CSCQ,2,Philosophy,2,19,Who is known for his work "The World as Will and Representation"?,Arthur Schopenhauer,Friedrich Nietzsche,Martin Heidegger,Georg Wilhelm Friedrich Hegel,Arthur Schopenhauer,2
+CSCQ,2,Philosophy,2,20,What is the term for the philosophical theory that knowledge is primarily acquired through reason?,Rationalism,Empiricism,Idealism,Pragmatism,Rationalism,4
+CSCQ,2,Philosophy,2,21,Who is known for his philosophical concept of the "veil of ignorance"?,John Rawls,John Locke,Thomas Hobbes,David Hume,John Rawls,5
+CSC,2,Philosophy,3
+CSCQ,2,Philosophy,3,1,Who is known for his work "The Birth of Tragedy"?,Friedrich Nietzsche,Arthur Schopenhauer,Martin Heidegger,Georg Wilhelm Friedrich Hegel,Friedrich Nietzsche,3
+CSCQ,2,Philosophy,3,2,What is the term for the philosophical theory that the mind and body are distinct substances that interact with each other?,Dualism,Monism,Nihilism,Materialism,Dualism,4
+CSCQ,2,Philosophy,3,3,Who is known for his work "The Republic"?,Plato,Socrates,Aristotle,Pythagoras,Plato,1
+CSCQ,2,Philosophy,3,4,What is the term for the philosophical theory that reality is fundamentally mental or spiritual rather than physical?,Idealism,Materialism,Dualism,Nihilism,Idealism,3
+CSCQ,2,Philosophy,3,5,Who is known for his concept of "the will to live"?,Arthur Schopenhauer,Friedrich Nietzsche,Martin Heidegger,Georg Wilhelm Friedrich Hegel,Arthur Schopenhauer,2
+CSCQ,2,Philosophy,3,6,Who is known for his work "Meditations on First Philosophy"?,René Descartes,John Locke,David Hume,Bertrand Russell,René Descartes,1
+CSCQ,2,Philosophy,3,7,What is the term for the philosophical belief that reality consists only of physical objects and processes?,Materialism,Idealism,Dualism,Nihilism,Materialism,4
+CSCQ,2,Philosophy,3,8,Who is known for his work "The Critique of Pure Reason"?,Immanuel Kant,John Locke,David Hume,Bertrand Russell,Immanuel Kant,1
+CSCQ,2,Philosophy,3,9,What is the term for the philosophical theory that knowledge is primarily acquired through sensory experience?,Empiricism,Rationalism,Idealism,Pragmatism,Empiricism,3
+CSCQ,2,Philosophy,3,10,Who is known for his work "The Will to Power"?,Friedrich Nietzsche,Arthur Schopenhauer,Martin Heidegger,Georg Wilhelm Friedrich Hegel,Friedrich Nietzsche,2
+CSCQ,2,Philosophy,3,11,What is the term for the philosophical theory that all reality is ultimately derived from and dependent upon the mind?,Idealism,Materialism,Dualism,Nihilism,Idealism,3
+CSCQ,2,Philosophy,3,12,Who is known for his work "Beyond Good and Evil"?,Friedrich Nietzsche,Arthur Schopenhauer,Martin Heidegger,Georg Wilhelm Friedrich Hegel,Friedrich Nietzsche,1
+CSCQ,2,Philosophy,3,13,What is the term for the philosophical theory that nothing exists or that existence or values are meaningless?,Nihilism,Existentialism,Realism,Pragmatism,Nihilism,3
+CSCQ,2,Philosophy,3,14,Who is known for his concept of "the eternal recurrence"?,Friedrich Nietzsche,Arthur Schopenhauer,Martin Heidegger,Georg Wilhelm Friedrich Hegel,Friedrich Nietzsche,1
+CSCQ,2,Philosophy,3,15,What is the term for the philosophical belief that knowledge is primarily acquired through reason rather than sensory experience?,Rationalism,Empiricism,Idealism,Pragmatism,Rationalism,3
+CSCQ,2,Philosophy,3,16,Who is known for his work "The Phenomenology of Spirit"?,Georg Wilhelm Friedrich Hegel,Immanuel Kant,John Locke,David Hume,Georg Wilhelm Friedrich Hegel,1
+CSCQ,2,Philosophy,3,17,What is the term for the philosophical belief that the truth or meaning of a statement is relative to the context in which it is uttered or the framework within which it is understood?,Relativism,Realism,Idealism,Pragmatism,Relativism,2
+CS,2,Computer Science
+CSC,2,Computer Science,1
+CSCQ,2,Computer Science,1,1,What is the primary function of a CPU?,Processing data,Storing data,Displaying data,Inputting data,Processing data,3
+CSCQ,2,Computer Science,1,2,Which component of a computer stores data long-term?,Hard drive,CPU,RAM,Keyboard,Hard drive,4
+CSCQ,2,Computer Science,1,3,What does RAM stand for in computing?,Random Access Memory,Read-Only Memory,Randomized Array Memory,Resource Allocation Mechanism,Random Access Memory,2
+CSCQ,2,Computer Science,1,4,Which device is used to input data into a computer?,Keyboard,Monitor,Printer,Scanner,Keyboard,3
+CSCQ,2,Computer Science,1,5,What is the main function of an operating system?,Manage computer hardware and software,Store data,Connect to the internet,Perform calculations,Manage computer hardware and software,4
+CSCQ,2,Computer Science,1,6,Which of the following is a storage device?,Hard drive,Monitor,CPU,Keyboard,Hard drive,5
+CSCQ,2,Computer Science,1,7,What does CPU stand for in computing?,Central Processing Unit,Computer Processing Unit,Control Processing Unit,Calculation Processing Unit,Central Processing Unit,1
+CSCQ,2,Computer Science,1,8,Which type of computer is smaller and more portable?,Laptop,Desktop,Server,Mainframe,Laptop,1
+CSCQ,2,Computer Science,1,9,What is the purpose of a mouse in computing?,To control the cursor,To display images,To type text,To print documents,To control the cursor,2
+CSCQ,2,Computer Science,1,10,Which of the following is an output device?,Monitor,Keyboard,Mouse,Scanner,Monitor,3
+CSCQ,2,Computer Science,1,11,What is the function of a printer in computing?,To produce hard copies of documents,To store data,To input data,To display images,To produce hard copies of documents,4
+CSCQ,2,Computer Science,1,12,Which component of a computer processes data and performs calculations?,CPU,Hard drive,Monitor,Keyboard,CPU,3
+CSCQ,2,Computer Science,1,13,What does USB stand for in computing?,Universal Serial Bus,Unified System Backup,User Security Barrier,Underlying System Base,Universal Serial Bus,5
+CSCQ,2,Computer Science,1,14,Which type of computer is designed to provide services to other computers over a network?,Server,Laptop,Desktop,Mainframe,Server,5
+CSCQ,2,Computer Science,1,15,What is the purpose of a modem in computing?,To connect to the internet,To store data,To process data,To display images,To connect to the internet,4
+CSCQ,2,Computer Science,1,16,What is the purpose of an email client software?,To send and receive emails,To edit photos,To create documents,To play games,To send and receive emails,2
+CSCQ,2,Computer Science,1,17,Which type of computer is the largest and most powerful?,Mainframe,Desktop,Laptop,Server,Mainframe,1
+CSCQ,2,Computer Science,1,18,What is the function of a scanner in computing?,To convert physical documents into digital images,To print documents,To connect to the internet,To display images,To convert physical documents into digital images,3
+CSCQ,2,Computer Science,1,19,What does LAN stand for in computing?,Local Area Network,Long Access Node,Low-level Authentication Network,Limited Application Network,Local Area Network,5
+CSCQ,2,Computer Science,1,20,What is the purpose of an antivirus software?,To protect against computer viruses,To create documents,To edit photos,To send emails,To protect against computer viruses,2
+CSC,2,Computer Science,2
+CSCQ,2,Computer Science,2,1,What is the purpose of a web browser?,To access websites,To store data,To edit photos,To play games,To access websites,1
+CSCQ,2,Computer Science,2,2,Which programming language is commonly used for building websites?,HTML,Java,C++,Python,HTML,3
+CSCQ,2,Computer Science,2,3,What does URL stand for in computing?,Uniform Resource Locator,Universal Reference Language,User Registration Link,Unified Resource Library,Uniform Resource Locator,2
+CSCQ,2,Computer Science,2,4,What is the function of a search engine?,To help find information on the internet,To store data,To edit photos,To play games,To help find information on the internet,4
+CSCQ,2,Computer Science,2,5,What does ISP stand for in computing?,Internet Service Provider,Internet Storage Protocol,Internal Security Program,Interactive System Protocol,Internet Service Provider,1
+CSCQ,2,Computer Science,2,6,Which of the following is a social media platform?,Facebook,Java,CPU,Keyboard,Facebook,5
+CSCQ,2,Computer Science,2,7,What is the purpose of a firewall?,To protect against unauthorized access,To store data,To edit photos,To play games,To protect against unauthorized access,5
+CSCQ,2,Computer Science,2,8,What is the function of a router in computing?,To forward data packets between computer networks,To store data,To edit photos,To play games,To forward data packets between computer networks,3
+CSCQ,2,Computer Science,2,9,Which of the following is an example of cloud computing?,Google Drive,Hard drive,Monitor,Keyboard,Google Drive,2
+CSCQ,2,Computer Science,2,10,What is the purpose of cookies on websites?,To store user data,To edit photos,To play games,To connect to the internet,To store user data,3
+CSCQ,2,Computer Science,2,11,Which technology allows wireless communication between devices?,Bluetooth,Java,CPU,Keyboard,Bluetooth,4
+CSCQ,2,Computer Science,2,12,What does HTML stand for in computing?,Hypertext Markup Language,Hyper Transfer Machine Language,High-Level Manipulation Language,Hardware Testing Maintenance Language,Hypertext Markup Language,3
+CSCQ,2,Computer Science,2,13,What is the purpose of a domain name?,To identify a website,To store data,To edit photos,To play games,To identify a website,1
+CSCQ,2,Computer Science,2,14,What is the function of a cache in computing?,To temporarily store data for faster access,To store data permanently,To edit photos,To play games,To temporarily store data for faster access,3
+CSCQ,2,Computer Science,2,15,Which protocol is used to send email over the internet?,SMTP,HTML,Java,CPU,SMTP,1
+CSCQ,2,Computer Science,2,16,What is the purpose of a blog?,To publish online articles,To store data,To edit photos,To play games,To publish online articles,5
+CSCQ,2,Computer Science,2,17,Which of the following is an example of a web hosting service?,GoDaddy,Monitor,Keyboard,Mouse,GoDaddy,4
+CSCQ,2,Computer Science,2,18,What is the purpose of a modem in computing?,To connect to the internet,To store data,To edit photos,To play games,To connect to the internet,2
+CSCQ,2,Computer Science,2,19,What is the main function of DNS in computing?,To translate domain names to IP addresses,To store data,To edit photos,To play games,To translate domain names to IP addresses,2
+CSCQ,2,Computer Science,2,20,What is the purpose of a hyperlink on a webpage?,To link to another webpage,To store data,To edit photos,To play games,To link to another webpage,5
+CSC,2,Computer Science,3
+CSCQ,2,Computer Science,3,1,What is the function of an operating system?,To manage computer hardware and software resources,To store data,To edit photos,To play games,To manage computer hardware and software resources,4
+CSCQ,2,Computer Science,3,2,Which of the following is an example of an operating system?,Windows,Java,CPU,Keyboard,Windows,1
+CSCQ,2,Computer Science,3,3,What is the purpose of file compression?,To reduce the size of files,To store data,To edit photos,To play games,To reduce the size of files,3
+CSCQ,2,Computer Science,3,4,Which programming language is commonly used for developing mobile apps?,Java,C++,HTML,Python,Java,5
+CSCQ,2,Computer Science,3,5,What is the purpose of encryption in computing?,To secure data,To store data,To edit photos,To play games,To secure data,2
+CSCQ,2,Computer Science,3,6,What does CPU stand for in computing?,Central Processing Unit,Computer Programming Unit,Control Processing Unit,Computer Printing Unit,Central Processing Unit,3
+CSCQ,2,Computer Science,3,7,Which of the following is an example of a database management system?,MySQL,Java,CPU,Keyboard,MySQL,2
+CSCQ,2,Computer Science,3,8,What is the purpose of a compiler?,To translate source code into machine code,To store data,To edit photos,To play games,To translate source code into machine code,5
+CSCQ,2,Computer Science,3,9,Which of the following is a data storage device?,Hard drive,Monitor,Keyboard,Mouse,Hard drive,1
+CSCQ,2,Computer Science,3,10,What is the purpose of a network router?,To forward data packets between computer networks,To store data,To edit photos,To play games,To forward data packets between computer networks,4
+CSCQ,2,Computer Science,3,11,Which of the following is an example of a spreadsheet software?,Microsoft Excel,Java,CPU,Keyboard,Microsoft Excel,5
+CSCQ,2,Computer Science,3,12,What is the function of RAM in a computer?,To temporarily store data and instructions,To permanently store data,To edit photos,To play games,To temporarily store data and instructions,4
+CSCQ,2,Computer Science,3,13,What is the purpose of a firewall?,To protect against unauthorized access,To store data,To edit photos,To play games,To protect against unauthorized access,2
+CSCQ,2,Computer Science,3,14,Which of the following is an example of an input device?,Keyboard,Monitor,Printer,Speaker,Keyboard,3
+CSCQ,2,Computer Science,3,15,What is the function of a network switch?,To connect multiple devices in a local area network,To store data,To edit photos,To play games,To connect multiple devices in a local area network,4
+CSCQ,2,Computer Science,3,16,What is the purpose of a web server?,To host websites and web applications,To store data,To edit photos,To play games,To host websites and web applications,2
+CSCQ,2,Computer Science,3,17,Which of the following is an example of a programming language?,Python,Monitor,Keyboard,Mouse,Python,2
+CSCQ,2,Computer Science,3,18,What is the purpose of a modem in computing?,To connect to the internet,To store data,To edit photos,To play games,To connect to the internet,1
+CSCQ,2,Computer Science,3,19,Which of the following is an example of a cloud storage service?,Google Drive,Monitor,Keyboard,Mouse,Google Drive,3
+CSCQ,2,Computer Science,3,20,What is the purpose of a backup system?,To protect against data loss,To store data,To edit photos,To play games,To protect against data loss,5
+C,3
+CS,3,Neuroscience
+CSC,3,Neuroscience,1
+CSCQ,3,Neuroscience,1,1,What is the basic unit of the nervous system?,Neuron,Cell,Nucleus,Axon,Neuron,5
+CSCQ,3,Neuroscience,1,2,What part of the neuron receives signals?,Dendrite,Axon,Cell body,Synapse,Dendrite,5
+CSCQ,3,Neuroscience,1,3,What part of the neuron transmits signals?,Axon,Dendrite,Cell body,Synapse,Axon,5
+CSCQ,3,Neuroscience,1,4,What is the gap between two neurons called?,Synapse,Axon,Dendrite,Cell body,Synapse,5
+CSCQ,3,Neuroscience,1,5,What is the brain's outer layer called?,Cortex,Medulla,Thalamus,Hippocampus,Cortex,5
+CSCQ,3,Neuroscience,1,6,What is the main function of the hippocampus?,Memory,Movement,Vision,Hearing,Memory,5
+CSCQ,3,Neuroscience,1,7,What part of the brain controls voluntary movement?,Cerebellum,Thalamus,Hippocampus,Medulla,Cerebellum,5
+CSCQ,3,Neuroscience,1,8,What is the primary function of the thalamus?,Relay station,Memory,Vision,Hearing,Relay station,5
+CSCQ,3,Neuroscience,1,9,What neurotransmitter is associated with pleasure?,Dopamine,Serotonin,Acetylcholine,GABA,Dopamine,5
+CSCQ,3,Neuroscience,1,10,What part of the brain is responsible for vision?,Occipital lobe,Frontal lobe,Parietal lobe,Temporal lobe,Occipital lobe,5
+CSCQ,3,Neuroscience,1,11,What is the role of the myelin sheath?,Insulation,Signal reception,Signal transmission,Nutrient supply,Insulation,5
+CSCQ,3,Neuroscience,1,12,What is the function of neurotransmitters?,Transmit signals,Protect neurons,Store information,Supply nutrients,Transmit signals,5
+CSCQ,3,Neuroscience,1,13,What part of the brain regulates breathing and heart rate?,Medulla,Thalamus,Hippocampus,Cortex,Medulla,5
+CSCQ,3,Neuroscience,1,14,What structure connects the two hemispheres of the brain?,Corpus callosum,Thalamus,Hippocampus,Medulla,Corpus callosum,5
+CSCQ,3,Neuroscience,1,15,What is the function of the frontal lobe?,Decision making,Vision,Hearing,Balance,Decision making,5
+CSCQ,3,Neuroscience,1,16,What part of the neuron carries signals away from the cell body?,Axon,Dendrite,Synapse,Nucleus,Axon,5
+CSCQ,3,Neuroscience,1,17,What is the primary function of the parietal lobe?,Sensory processing,Movement,Vision,Hearing,Sensory processing,5
+CSCQ,3,Neuroscience,1,18,What is the role of the temporal lobe?,Hearing,Vision,Movement,Balance,Hearing,5
+CSCQ,3,Neuroscience,1,19,What ion is crucial for action potential initiation?,Sodium,Calcium,Potassium,Chloride,Sodium,5
+CSCQ,3,Neuroscience,1,20,What is the main function of glial cells?,Support neurons,Transmit signals,Store information,Detect stimuli,Support neurons,5
+CSC,3,Neuroscience,2
+CSCQ,3,Neuroscience,2,1,What is neuroplasticity?,Brain's ability to change,Signal transmission,Memory formation,Neuron death,Brain's ability to change,5
+CSCQ,3,Neuroscience,2,2,What is the function of the amygdala?,Emotion processing,Memory,Vision,Hearing,Emotion processing,5
+CSCQ,3,Neuroscience,2,3,What part of the brain regulates the sleep-wake cycle?,Hypothalamus,Hippocampus,Thalamus,Cortex,Hypothalamus,5
+CSCQ,3,Neuroscience,2,4,What neurotransmitter is involved in mood regulation?,Serotonin,Dopamine,GABA,Acetylcholine,Serotonin,5
+CSCQ,3,Neuroscience,2,5,What is the role of the basal ganglia?,Movement control,Vision,Memory,Hearing,Movement control,5
+CSCQ,3,Neuroscience,2,6,What is the main function of the cerebrum?,Higher brain functions,Movement,Balance,Breathing,Higher brain functions,5
+CSCQ,3,Neuroscience,2,7,What is the blood-brain barrier?,Protective barrier,Signal transmitter,Neuron connector,Signal receptor,Protective barrier,5
+CSCQ,3,Neuroscience,2,8,What is the function of acetylcholine?,Muscle contraction,Mood regulation,Sleep control,Memory formation,Muscle contraction,5
+CSCQ,3,Neuroscience,2,9,What part of the brain is involved in speech production?,Broca's area,Wernicke's area,Hippocampus,Cortex,Broca's area,5
+CSCQ,3,Neuroscience,2,10,What is the function of the reticular formation?,Arousal and alertness,Balance,Vision,Hearing,Arousal and alertness,5
+CSCQ,3,Neuroscience,2,11,What is synaptic plasticity?,Ability of synapses to strengthen or weaken,Neuron growth,Neuron death,Neurotransmitter release,Ability of synapses to strengthen or weaken,5
+CSCQ,3,Neuroscience,2,12,What part of the brain is associated with balance?,Cerebellum,Thalamus,Hippocampus,Cortex,Cerebellum,5
+CSCQ,3,Neuroscience,2,13,What is long-term potentiation?,Long-lasting increase in synaptic strength,Neuron death,Neuron growth,Short-term memory,Long-lasting increase in synaptic strength,5
+CSCQ,3,Neuroscience,2,14,What is the function of the prefrontal cortex?,Decision making,Balance,Vision,Hearing,Decision making,5
+CSCQ,3,Neuroscience,2,15,What is the main function of the brainstem?,Basic life functions,Memory,Vision,Hearing,Basic life functions,5
+CSCQ,3,Neuroscience,2,16,What is a synapse?,Junction between two neurons,Neuron's cell body,Neuron's axon,Neuron's dendrite,Junction between two neurons,5
+CSCQ,3,Neuroscience,2,17,What is the role of endorphins?,Pain relief,Muscle contraction,Mood regulation,Memory formation,Pain relief,5
+CSCQ,3,Neuroscience,2,18,What is neurogenesis?,Formation of new neurons,Death of neurons,Transmission of signals,Plasticity of neurons,Formation of new neurons,5
+CSCQ,3,Neuroscience,2,19,What neurotransmitter is primarily involved in fight or flight response?,Norepinephrine,Serotonin,GABA,Acetylcholine,Norepinephrine,5
+CSCQ,3,Neuroscience,2,20,What is the role of the thalamus?,Relay sensory information,Control heart rate,Regulate mood,Store memories,Relay sensory information,5
+CSC,3,Neuroscience,3
+CSCQ,3,Neuroscience,3,1,What part of the brain is responsible for processing auditory information?,Temporal lobe,Occipital lobe,Parietal lobe,Frontal lobe,Temporal lobe,5
+CSCQ,3,Neuroscience,3,2,What is the role of glial cells in the nervous system?,Support and protect neurons,Transmit signals,Store memories,Generate action potentials,Support and protect neurons,5
+CSCQ,3,Neuroscience,3,3,What is the function of the hypothalamus?,Regulate body temperature,Memory storage,Vision,Balance,Regulate body temperature,5
+CSCQ,3,Neuroscience,3,4,What neurotransmitter is associated with sleep and mood?,Serotonin,Dopamine,GABA,Glutamate,Serotonin,5
+CSCQ,3,Neuroscience,3,5,What is the function of the limbic system?,Emotion and memory,Movement,Vision,Hearing,Emotion and memory,5
+CSCQ,3,Neuroscience,3,6,What is the main function of the cerebellum?,Coordination and balance,Vision,Hearing,Memory,Coordination and balance,5
+CSCQ,3,Neuroscience,3,7,What is an action potential?,Electrical impulse,Neuron growth,Neuron death,Neurotransmitter release,Electrical impulse,5
+CSCQ,3,Neuroscience,3,8,What is the primary function of myelin?,Increase signal transmission speed,Store memories,Support neurons,Transmit signals,Increase signal transmission speed,5
+CSCQ,3,Neuroscience,3,9,What part of the neuron integrates incoming signals?,Cell body,Dendrite,Axon,Myelin,Cell body,5
+CSCQ,3,Neuroscience,3,10,What is the role of GABA in the brain?,Inhibitory neurotransmitter,Excitatory neurotransmitter,Mood regulator,Pain reliever,Inhibitory neurotransmitter,5
+CSCQ,3,Neuroscience,3,11,What is the function of the corpus callosum?,Connects the two hemispheres,Controls vision,Regulates mood,Stores memories,Connects the two hemispheres,5
+CSCQ,3,Neuroscience,3,12,What part of the brain processes visual information?,Occipital lobe,Temporal lobe,Parietal lobe,Frontal lobe,Occipital lobe,5
+CSCQ,3,Neuroscience,3,13,What is the main role of the prefrontal cortex?,Executive functions,Balance,Vision,Hearing,Executive functions,5
+CSCQ,3,Neuroscience,3,14,What is synaptic pruning?,Elimination of unused synapses,Formation of new synapses,Increase in synaptic strength,Neuron growth,Elimination of unused synapses,5
+CSCQ,3,Neuroscience,3,15,What is the function of norepinephrine?,Stress response,Memory,Vision,Hearing,Stress response,5
+CSCQ,3,Neuroscience,3,16,What is the role of the medulla oblongata?,Regulate breathing and heart rate,Memory formation,Vision,Hearing,Regulate breathing and heart rate,5
+CSCQ,3,Neuroscience,3,17,What part of the brain is crucial for forming new memories?,Hippocampus,Thalamus,Medulla,Cortex,Hippocampus,5
+CSCQ,3,Neuroscience,3,18,What is the function of dopamine in the brain?,Reward and pleasure,Muscle contraction,Sleep control,Memory formation,Reward and pleasure,5
+CSCQ,3,Neuroscience,3,19,What is an axon terminal?,End of an axon,Start of an axon,Neuron's cell body,Neuron's nucleus,End of an axon,5
+CSCQ,3,Neuroscience,3,20,What neurotransmitter is primarily involved in learning and memory?,Glutamate,Serotonin,GABA,Dopamine,Glutamate,5
+CS,3,Nutrition
+CSC,3,Nutrition,1
+CSCQ,3,Nutrition,1,1,What is the primary source of energy for the body?,Carbohydrates,Proteins,Fats,Vitamins,Carbohydrates,5
+CSCQ,3,Nutrition,1,2,What nutrient is essential for muscle repair?,Proteins,Carbohydrates,Fats,Vitamins,Proteins,5
+CSCQ,3,Nutrition,1,3,What vitamin is crucial for bone health?,Vitamin D,Vitamin C,Vitamin A,Vitamin B12,Vitamin D,5
+CSCQ,3,Nutrition,1,4,What mineral is important for oxygen transport in the blood?,Iron,Calcium,Magnesium,Sodium,Iron,5
+CSCQ,3,Nutrition,1,5,What is the function of dietary fiber?,Aids in digestion,Provides energy,Builds muscle,Improves vision,Aids in digestion,5
+CSCQ,3,Nutrition,1,6,What is a complete protein?,Contains all essential amino acids,Contains no fats,Contains all vitamins,Contains all minerals,Contains all essential amino acids,5
+CSCQ,3,Nutrition,1,7,What is the main function of water in the body?,Regulate temperature,Provide energy,Build muscle,Store fat,Regulate temperature,5
+CSCQ,3,Nutrition,1,8,What nutrient is most calorie-dense?,Fats,Carbohydrates,Proteins,Vitamins,Fats,5
+CSCQ,3,Nutrition,1,9,What is the role of antioxidants?,Protect cells from damage,Provide energy,Build muscle,Aid in digestion,Protect cells from damage,5
+CSCQ,3,Nutrition,1,10,What vitamin is essential for blood clotting?,Vitamin K,Vitamin C,Vitamin A,Vitamin D,Vitamin K,5
+CSCQ,3,Nutrition,1,11,What is the primary function of carbohydrates?,Provide energy,Build muscle,Store vitamins,Regulate body temperature,Provide energy,5
+CSCQ,3,Nutrition,1,12,What is the main benefit of omega-3 fatty acids?,Heart health,Bone health,Muscle growth,Improved vision,Heart health,5
+CSCQ,3,Nutrition,1,13,What mineral is crucial for bone and teeth strength?,Calcium,Iron,Sodium,Potassium,Calcium,5
+CSCQ,3,Nutrition,1,14,What nutrient helps in the absorption of fat-soluble vitamins?,Fats,Carbohydrates,Proteins,Fiber,Fats,5
+CSCQ,3,Nutrition,1,15,What is the primary function of vitamin C?,Immune support,Bone health,Vision,Muscle repair,Immune support,5
+CSCQ,3,Nutrition,1,16,What is a micronutrient?,Vitamin or mineral,Carbohydrate,Protein,Fat,Vitamin or mineral,5
+CSCQ,3,Nutrition,1,17,What is the function of potassium in the body?,Regulate fluid balance,Provide energy,Build muscle,Store fat,Regulate fluid balance,5
+CSCQ,3,Nutrition,1,18,What nutrient is essential for red blood cell production?,Iron,Calcium,Magnesium,Sodium,Iron,5
+CSCQ,3,Nutrition,1,19,What is the role of dietary fiber in heart health?,Lower cholesterol,Provide energy,Build muscle,Store fat,Lower cholesterol,5
+CSCQ,3,Nutrition,1,20,What is the function of vitamin B12?,Nerve function,Vision,Build muscle,Store fat,Nerve function,5
+CSC,3,Nutrition,2
+CSCQ,3,Nutrition,2,1,What nutrient is primarily responsible for growth and repair?,Proteins,Carbohydrates,Fats,Vitamins,Proteins,5
+CSCQ,3,Nutrition,2,2,What vitamin is known as the sunshine vitamin?,Vitamin D,Vitamin C,Vitamin A,Vitamin B12,Vitamin D,5
+CSCQ,3,Nutrition,2,3,What mineral is essential for thyroid function?,Iodine,Calcium,Iron,Magnesium,Iodine,5
+CSCQ,3,Nutrition,2,4,What is the primary function of fats in the diet?,Energy storage,Build muscle,Improve vision,Aid digestion,Energy storage,5
+CSCQ,3,Nutrition,2,5,What vitamin is necessary for calcium absorption?,Vitamin D,Vitamin C,Vitamin A,Vitamin K,Vitamin D,5
+CSCQ,3,Nutrition,2,6,What is the role of magnesium in the body?,Muscle function,Bone health,Vision support,Immune support,Muscle function,5
+CSCQ,3,Nutrition,2,7,What nutrient is essential for DNA synthesis?,Folate,Iron,Calcium,Sodium,Folate,5
+CSCQ,3,Nutrition,2,8,What is the main benefit of probiotics?,Gut health,Vision support,Bone health,Muscle growth,Gut health,5
+CSCQ,3,Nutrition,2,9,What is the function of vitamin E?,Antioxidant,Vision support,Muscle repair,Bone health,Antioxidant,5
+CSCQ,3,Nutrition,2,10,What nutrient is important for maintaining healthy skin?,Vitamin A,Iron,Calcium,Magnesium,Vitamin A,5
+CSCQ,3,Nutrition,2,11,What is the role of sodium in the body?,Regulate blood pressure,Provide energy,Build muscle,Improve vision,Regulate blood pressure,5
+CSCQ,3,Nutrition,2,12,What is a common source of vitamin C?,Citrus fruits,Red meat,Whole grains,Dairy,Citrus fruits,5
+CSCQ,3,Nutrition,2,13,What is the primary function of dietary fiber?,Aids digestion,Provide energy,Build muscle,Store vitamins,Aids digestion,5
+CSCQ,3,Nutrition,2,14,What nutrient helps with wound healing?,Vitamin C,Iron,Calcium,Sodium,Vitamin C,5
+CSCQ,3,Nutrition,2,15,What is the function of zinc in the body?,Immune function,Vision support,Bone health,Muscle growth,Immune function,5
+CSCQ,3,Nutrition,2,16,What vitamin is essential for blood clotting?,Vitamin K,Vitamin C,Vitamin A,Vitamin D,Vitamin K,5
+CSCQ,3,Nutrition,2,17,What is the role of calcium in the body?,Bone health,Muscle repair,Vision,Digestion,Bone health,5
+CSCQ,3,Nutrition,2,18,What is a rich source of omega-3 fatty acids?,Fish,Red meat,Whole grains,Dairy,Fish,5
+CSCQ,3,Nutrition,2,19,What is the primary function of carbohydrates?,Provide energy,Build muscle,Store vitamins,Regulate body temperature,Provide energy,5
+CSCQ,3,Nutrition,2,20,What nutrient is essential for muscle contraction?,Magnesium,Iron,Calcium,Zinc,Calcium,5
+CSC,3,Nutrition,3
+CSCQ,3,Nutrition,3,1,What is the main role of vitamins in the body?,Regulate body processes,Provide energy,Build muscle,Store fat,Regulate body processes,5
+CSCQ,3,Nutrition,3,2,What is the primary benefit of a balanced diet?,Overall health,Weight loss,Muscle growth,Improved vision,Overall health,5
+CSCQ,3,Nutrition,3,3,What is the function of dietary antioxidants?,Protect cells from damage,Provide energy,Build muscle,Improve vision,Protect cells from damage,5
+CSCQ,3,Nutrition,3,4,What nutrient is important for red blood cell formation?,Iron,Calcium,Magnesium,Sodium,Iron,5
+CSCQ,3,Nutrition,3,5,What is the main function of vitamin A?,Vision support,Bone health,Muscle repair,Immune support,Vision support,5
+CSCQ,3,Nutrition,3,6,What is a good source of vitamin E?,Nuts and seeds,Red meat,Whole grains,Dairy,Nuts and seeds,5
+CSCQ,3,Nutrition,3,7,What mineral is important for fluid balance?,Potassium,Iron,Calcium,Zinc,Potassium,5
+CSCQ,3,Nutrition,3,8,What is the primary benefit of dietary fiber?,Digestive health,Provide energy,Build muscle,Store vitamins,Digestive health,5
+CSCQ,3,Nutrition,3,9,What nutrient is essential for protein synthesis?,Amino acids,Carbohydrates,Fats,Vitamins,Amino acids,5
+CSCQ,3,Nutrition,3,10,What is the function of vitamin C in the body?,Immune support,Bone health,Vision,Muscle repair,Immune support,5
+CSCQ,3,Nutrition,3,11,What is the role of folic acid during pregnancy?,Prevent birth defects,Provide energy,Build muscle,Improve vision,Prevent birth defects,5
+CSCQ,3,Nutrition,3,12,What nutrient is found in leafy green vegetables?,Iron,Calcium,Magnesium,Zinc,Iron,5
+CSCQ,3,Nutrition,3,13,What is the primary function of calcium?,Bone health,Muscle repair,Vision,Digestion,Bone health,5
+CSCQ,3,Nutrition,3,14,What nutrient is essential for wound healing?,Vitamin C,Iron,Calcium,Sodium,Vitamin C,5
+CSCQ,3,Nutrition,3,15,What is the main benefit of omega-3 fatty acids?,Heart health,Bone health,Muscle growth,Improved vision,Heart health,5
+CSCQ,3,Nutrition,3,16,What is the function of vitamin D?,Calcium absorption,Immune support,Vision,Muscle repair,Calcium absorption,5
+CSCQ,3,Nutrition,3,17,What is a rich source of protein?,Lean meats,Whole grains,Dairy,Fruits,Lean meats,5
+CSCQ,3,Nutrition,3,18,What is the role of magnesium in muscle function?,Prevent cramps,Build muscle,Improve vision,Store fat,Prevent cramps,5
+CSCQ,3,Nutrition,3,19,What is the primary function of water in the body?,Regulate temperature,Provide energy,Build muscle,Store fat,Regulate temperature,5
+CSCQ,3,Nutrition,3,20,What is the role of potassium in the body?,Regulate fluid balance,Provide energy,Build muscle,Store fat,Regulate fluid balance,5
+CS,3,Astronomy
+CSC,3,Astronomy,1
+CSCQ,3,Astronomy,1,1,What is the largest planet in our solar system?,Jupiter,Saturn,Mars,Earth,Jupiter,5
+CSCQ,3,Astronomy,1,2,What is the primary component of the Sun?,Hydrogen,Helium,Oxygen,Carbon,Hydrogen,5
+CSCQ,3,Astronomy,1,3,Which planet is known as the Red Planet?,Mars,Jupiter,Venus,Mercury,Mars,5
+CSCQ,3,Astronomy,1,4,What is the smallest planet in our solar system?,Mercury,Mars,Venus,Pluto,Mercury,5
+CSCQ,3,Astronomy,1,5,Which planet has the most extensive ring system?,Saturn,Jupiter,Uranus,Neptune,Saturn,5
+CSCQ,3,Astronomy,1,6,What is the name of the second planet from the Sun?,Venus,Mars,Earth,Mercury,Venus,5
+CSCQ,3,Astronomy,1,7,What is the hottest planet in our solar system?,Venus,Mercury,Mars,Jupiter,Venus,5
+CSCQ,3,Astronomy,1,8,Which planet is known for its Great Red Spot?,Jupiter,Saturn,Neptune,Uranus,Jupiter,5
+CSCQ,3,Astronomy,1,9,What is the name of Earth's natural satellite?,Moon,Phobos,Deimos,Europa,Moon,5
+CSCQ,3,Astronomy,1,10,What are the icy bodies that orbit the Sun called?,Comets,Asteroids,Meteors,Planets,Comets,5
+CSCQ,3,Astronomy,1,11,Which planet is closest to the Sun?,Mercury,Venus,Earth,Mars,Mercury,5
+CSCQ,3,Astronomy,1,12,What is the Kuiper Belt?,Region beyond Neptune,Region between Mars and Jupiter,Region around the Sun,Region around Earth,Region beyond Neptune,5
+CSCQ,3,Astronomy,1,13,What is the term for a planet outside our solar system?,Exoplanet,Dwarf planet,Comet,Asteroid,Exoplanet,5
+CSCQ,3,Astronomy,1,14,What is the name of the fourth planet from the Sun?,Mars,Earth,Venus,Jupiter,Mars,5
+CSCQ,3,Astronomy,1,15,What planet has a day longer than its year?,Venus,Mars,Mercury,Jupiter,Venus,5
+CSCQ,3,Astronomy,1,16,Which planet is known as the Earth's twin?,Venus,Mars,Mercury,Neptune,Venus,5
+CSCQ,3,Astronomy,1,17,What is the term for the path a planet takes around the Sun?,Orbit,Rotation,Revolution,Eclipse,Orbit,5
+CSCQ,3,Astronomy,1,18,What is a dwarf planet?,A small planet that does not dominate its orbit,An asteroid,A large moon,A planet in another galaxy,A small planet that does not dominate its orbit,5
+CSCQ,3,Astronomy,1,19,Which planet has the highest mountain in the solar system?,Mars,Jupiter,Saturn,Venus,Mars,5
+CSCQ,3,Astronomy,1,20,What is the primary factor that keeps planets in orbit around the Sun?,Gravity,Magnetism,Wind,Electricity,Gravity,5
+CSC,3,Astronomy,2
+CSCQ,3,Astronomy,2,1,What is the closest star to Earth?,Sun,Proxima Centauri,Alpha Centauri,Barnard's Star,Sun,5
+CSCQ,3,Astronomy,2,2,What galaxy is Earth located in?,Milky Way,Andromeda,Triangulum,Large Magellanic Cloud,Milky Way,5
+CSCQ,3,Astronomy,2,3,What is a supernova?,Explosion of a star,Birth of a star,Death of a planet,Collision of galaxies,Explosion of a star,5
+CSCQ,3,Astronomy,2,4,What type of galaxy is the Milky Way?,Spiral,Elliptical,Irregular,Barred,Spiral,5
+CSCQ,3,Astronomy,2,5,What is the name of the largest known galaxy?,IC 1101,Andromeda,Milky Way,Triangulum,IC 1101,5
+CSCQ,3,Astronomy,2,6,What is the process by which stars produce energy?,Nuclear fusion,Nuclear fission,Combustion,Electromagnetism,Nuclear fusion,5
+CSCQ,3,Astronomy,2,7,What is a black hole?,A region of space with strong gravitational pull,A star,A planet,A type of galaxy,A region of space with strong gravitational pull,5
+CSCQ,3,Astronomy,2,8,What is the term for a star's brightness?,Luminosity,Temperature,Mass,Color,Luminosity,5
+CSCQ,3,Astronomy,2,9,What is the name of the closest galaxy to the Milky Way?,Andromeda,Triangulum,Whirlpool,Large Magellanic Cloud,Andromeda,5
+CSCQ,3,Astronomy,2,10,What is a neutron star?,Collapsed core of a massive star,A type of planet,A small galaxy,An asteroid,Collapsed core of a massive star,5
+CSCQ,3,Astronomy,2,11,What are constellations?,Patterns of stars,Types of galaxies,Types of planets,Names of stars,Patterns of stars,5
+CSCQ,3,Astronomy,2,12,What is a light-year?,Distance light travels in one year,Unit of time,Unit of speed,Unit of energy,Distance light travels in one year,5
+CSCQ,3,Astronomy,2,13,What is the name of the star at the center of our solar system?,Sun,Polaris,Sirius,Betelgeuse,Sun,5
+CSCQ,3,Astronomy,2,14,What is the Hertzsprung-Russell diagram used for?,Classifying stars,Measuring distances,Mapping galaxies,Finding planets,Classifying stars,5
+CSCQ,3,Astronomy,2,15,What is a white dwarf?,A small dense remnant of a star,A large star,A type of galaxy,A type of planet,A small dense remnant of a star,5
+CSCQ,3,Astronomy,2,16,What is the name of the second brightest star in the night sky?,Canopus,Sirius,Alpha Centauri,Vega,Canopus,5
+CSCQ,3,Astronomy,2,17,What is the name of the galaxy that will collide with the Milky Way in the future?,Andromeda,Triangulum,Whirlpool,Sombrero,Andromeda,5
+CSCQ,3,Astronomy,2,18,What is a red giant?,A late stage in a star's life,A type of planet,A small galaxy,A young star,A late stage in a star's life,5
+CSCQ,3,Astronomy,2,19,What is the main sequence?,Stable phase of a star's life cycle,Formation of a star,Death of a star,Birth of a galaxy,Stable phase of a star's life cycle,5
+CSCQ,3,Astronomy,2,20,What are pulsars?,Rapidly spinning neutron stars,Types of planets,Small galaxies,Black holes,Rapidly spinning neutron stars,5
+CSC,3,Astronomy,3
+CSCQ,3,Astronomy,3,1,What was the first human-made object to reach space?,V-2 rocket,Sputnik 1,Apollo 11,Luna 2,V-2 rocket,5
+CSCQ,3,Astronomy,3,2,Who was the first human to travel into space?,Yuri Gagarin,Neil Armstrong,Buzz Aldrin,Alan Shepard,Yuri Gagarin,5
+CSCQ,3,Astronomy,3,3,What was the first artificial satellite?,Sputnik 1,Voyager 1,Hubble,ISS,Sputnik 1,5
+CSCQ,3,Astronomy,3,4,Which mission landed the first humans on the Moon?,Apollo 11,Apollo 13,Vostok 1,Challenger,Apollo 11,5
+CSCQ,3,Astronomy,3,5,What is the International Space Station?,A habitable space station,A space probe,A satellite,A spaceship,A habitable space station,5
+CSCQ,3,Astronomy,3,6,What is the primary purpose of the Hubble Space Telescope?,Distant galaxy,Communicating with satellites,Monitoring Earth's weather,Providing internet service,Distant galaxy,5
+CSCQ,3,Astronomy,3,7,What is the name of NASA's rover currently exploring Mars?,Perseverance,Curiosity,Opportunity,Spirit,Perseverance,5
+CSCQ,3,Astronomy,3,8,What is the purpose of the Voyager missions?,Explore outer planets,Land on the Moon,Observe the Sun,Map the Earth's surface,Explore outer planets,5
+CSCQ,3,Astronomy,3,9,Who was the first American to orbit Earth?,John Glenn,Neil Armstrong,Buzz Aldrin,Yuri Gagarin,John Glenn,5
+CSCQ,3,Astronomy,3,10,What was the goal of the Apollo program?,Land humans on the Moon,Explore Mars,Build a space station,Launch satellites,Land humans on the Moon,5
+CSCQ,3,Astronomy,3,11,What is the name of the telescope that will replace Hubble?,James Webb Space Telescope,Kepler,TESS,Spitzer,James Webb Space Telescope,5
+CSCQ,3,Astronomy,3,12,What was the first spacecraft to visit Pluto?,New Horizons,Voyager 1,Pioneer 10,Galileo,New Horizons,5
+CSCQ,3,Astronomy,3,13,What was the first reusable spacecraft?,Space Shuttle,Saturn V,Apollo 11,Voyager,Space Shuttle,5
+CSCQ,3,Astronomy,3,14,What is the main advantage of space probes?,They can travel where humans cannot,They are cheaper than satellites,They provide internet service,They monitor Earth's weather,They can travel where humans cannot,5
+CSCQ,3,Astronomy,3,15,What is the Cassini mission known for?,Exploring Saturn,Exploring Mars,Landing on the Moon,Orbiting Earth,Exploring Saturn,5
+CSCQ,3,Astronomy,3,16,What is the purpose of the Mars Rover missions?,Explore Mars' surface,Observe the Sun,Explore outer planets,Map Earth's surface,Explore Mars' surface,5
+CSCQ,3,Astronomy,3,17,What is the name of the first privately funded spacecraft to reach orbit?,SpaceX Falcon 1,Blue Origin New Shepard,Virgin Galactic VSS Unity,Orbital Sciences Cygnus,SpaceX Falcon 1,5
+CSCQ,3,Astronomy,3,18,What was the first space station?,Salyut 1,Mir,ISS,SkyLab,Salyut 1,5
+CSCQ,3,Astronomy,3,19,Who was the first woman in space?,Valentina Tereshkova,Sally Ride,Mae Jemison,Eileen Collins,Valentina Tereshkova,5
+CSCQ,3,Astronomy,3,20,What is the primary goal of the Artemis program?,Return humans to the Moon,Explore Venus,Visit an asteroid,Build a space station on Mars,Return humans to the Moon,5
+CS,3,OOP
+CSC,3,OOP,1
+CSCQ,3,OOP,1,1,What is the main focus of Object-Oriented Programming?,Objects,Functions,Data Structures,Algorithms,Objects,5
+CSCQ,3,OOP,1,2,What is a class in OOP?,A blueprint for creating objects,A data type,A function,A variable,A blueprint for creating objects,5
+CSCQ,3,OOP,1,3,What is an object in OOP?,An instance of a class,A type of function,A control structure,A primitive data type,An instance of a class,5
+CSCQ,3,OOP,1,4,What does encapsulation in OOP refer to?,Hiding data within a class,Reusing code,Inheriting properties,Polymorphism,Hiding data within a class,5
+CSCQ,3,OOP,1,5,What is inheritance in OOP?,A mechanism to create a new class from an existing class,A way to hide data,A method to perform multiple operations,An approach to define functions,A mechanism to create a new class from an existing class,5
+CSCQ,3,OOP,1,6,What is polymorphism in OOP?,Ability of different classes to be treated as instances of the same class through inheritance,A way to hide data,Reusing code,Defining functions,Ability of different classes to be treated as instances of the same class through inheritance,3
+CSCQ,3,OOP,1,7,What is abstraction in OOP?,Hiding complex implementation details and showing only the necessary features,Reusing code,Hiding data,Inheriting properties,Hiding complex implementation details and showing only the necessary features,5
+CSCQ,3,OOP,1,8,Which keyword is used to define a class in Python?,class,function,def,var,class,5
+CSCQ,3,OOP,1,9,What is the constructor method in Python called?,__init__,__start__,__construct__,__create__,__init__,5
+CSCQ,3,OOP,1,10,What is method overloading in OOP?,Defining multiple methods with the same name but different parameters,Reusing code,Hiding data,Inheriting properties,Defining multiple methods with the same name but different parameters,5
+CSCQ,3,OOP,1,11,Which of the following is a feature of OOP?,All of the above,Encapsulation,Inheritance,Polymorphism,All of the above,5
+CSCQ,3,OOP,1,12,What is method overriding in OOP?,Redefining a method in a subclass,Reusing code,Hiding data,Defining a new method,Redefining a method in a subclass,5
+CSCQ,3,OOP,1,13,What is a static method in Python?,A method bound to the class and not the instance,An instance method,A method that changes,An abstract method,A method bound to the class and not the instance,5
+CSCQ,3,OOP,1,14,What is a private attribute in OOP?,An attribute prefixed with an underscore (_),An attribute with no prefix,An attribute with double underscores (__),An attribute suffixed with an underscore (_),An attribute prefixed with an underscore (_),5
+CSCQ,3,OOP,1,15,What is multiple inheritance in OOP?,A class inheriting from more than one superclass,Reusing code,Hiding data,Defining multiple methods,A class inheriting from more than one superclass,5
+CSCQ,3,OOP,1,16,What is a module in Python?,A file containing Python code,A function,A variable,A class,A file containing Python code,5
+CSCQ,3,OOP,1,17,How do you import a module in Python?,Using the import keyword,Using the include keyword,Using the require keyword,Using the load keyword,Using the import keyword,1
+CSCQ,3,OOP,1,18,What is a docstring in Python?,A string literal used for documentation,A variable name,A method name,An attribute name,A string literal used for documentation,5
+CSCQ,3,OOP,1,19,What is the purpose of the __str__ method in Python?,To define the string representation of an object,To define the initialization of an object,To define a class method,To define a private attribute,To define the string representation of an object,5
+CSC,3,OOP,2
+CSCQ,3,OOP,2,1,What is a metaclass in Python?,A class of a class,A type of function,A control structure,A primitive data type,A class of a class,5
+CSCQ,3,OOP,2,2,What does the term MRO stand for in Python?,Method Resolution Order,Module Reference Object,Memory Read Only,Method Return Object,Method Resolution Order,5
+CSCQ,3,OOP,2,3,What is a decorator in Python?,A function that modifies other functions,A type of variable,A type of class,An instance method,A function that modifies other functions,5
+CSCQ,3,OOP,2,4,What is a mixin in OOP?,A class that provides methods to other classes through inheritance,A method that changes,An attribute with double underscores (__),An abstract class,A class that provides methods to other classes through inheritance,5
+CSCQ,3,OOP,2,5,What is the purpose of the super() function in Python?,To call a method from the parent class,To define a static method,To define a private attribute,To import a module,To call a method from the parent class,5
+CSCQ,3,OOP,2,6,What is duck typing in Python?,Determining an object's type by its behavior rather than its class,Reusing code,Hiding data,Inheriting properties,Determining an object's type by its behavior rather than its class,4
+CSCQ,3,OOP,2,7,What is the __slots__ declaration used for in Python?,To restrict dynamic attribute creation,To define a class method,To define a static method,To hide data,To restrict dynamic attribute creation,5
+CSCQ,3,OOP,2,8,What is the purpose of the @staticmethod decorator?,To define a method that does not access instance or class variables,To define a method that accesses instance variables,To define a method that accesses class variables,To import a module,To define a method that does not access instance or class variables,5
+CSCQ,3,OOP,2,9,What is the difference between @classmethod and @staticmethod?,@classmethod takes cls as the first parameter; @staticmethod does not,@staticmethod takes self as the first parameter,@classmethod takes self as the first parameter; @staticmethod takes cls,@staticmethod does not exist,@classmethod takes cls as the first parameter; @staticmethod does not,5
+CSCQ,3,OOP,2,10,What is an abstract class in Python?,A class that cannot be instantiated,A class that has no methods,A class that has no attributes,A class that cannot be inherited,A class that cannot be instantiated,5
+CSCQ,3,OOP,2,11,Which module is used to define abstract base classes in Python?,abc,base,abstract,meta,abc,5
+CSCQ,3,OOP,2,12,What is the purpose of the __call__ method in Python?,To make an object callable like a function,To define a class method,To define a static method,To hide data,To make an object callable like a function,5
+CSCQ,3,OOP,2,13,What is method chaining in OOP?,Calling multiple methods on the same object in a single statement,Defining multiple methods in a class,Overloading methods,Inheriting methods,Calling multiple methods on the same object in a single statement,5
+CSCQ,3,OOP,2,14,What is the purpose of the __repr__ method in Python?,To provide an official string representation of an object,To define the string representation of an object,To define the initialization of an object,To hide data,To provide an official string representation of an object,5
+CSCQ,3,OOP,2,15,What is the main advantage of using properties in Python?,They allow controlled access to instance attributes,They make methods private,They make classes abstract,They allow dynamic attribute creation,They allow controlled access to instance attributes,5
+CSCQ,3,OOP,2,16,What is a frozen dataclass in Python?,A dataclass whose attributes cannot be modified,An abstract class,A static method,A private attribute,A dataclass whose attributes cannot be modified,5
+CSCQ,3,OOP,2,17,What does the term "inheritance hierarchy" refer to?,The structure of parent and child classes,The structure of methods within a class,The structure of attributes within a class,The structure of instances,The structure of parent and child classes,3
+CSCQ,3,OOP,2,18,Which design pattern is used to decouple abstraction from implementation so that the two can vary independently?,Bridge Pattern,Adapter Pattern,Decorator Pattern,Proxy Pattern,Bridge Pattern,5
+CSCQ,3,OOP,2,19,Which design pattern is used to separate the construction of a complex object from its representation so that the same construction process can create different representations?,Builder Pattern,Factory Pattern,Singleton Pattern,Prototype Pattern,Builder Pattern,2
+CSCQ,3,OOP,2,20,Which design pattern is used to allow a class to alter its behavior when its internal state changes?,State Pattern,Strategy Pattern,Observer Pattern,Command Pattern,State Pattern,1
+CSC,3,OOP,3
+CSCQ,3,OOP,3,1,What is a design pattern in OOP?,A reusable solution to a commonly occurring problem,A way to hide data,An abstract class,A static method,A reusable solution to a commonly occurring problem,5
+CSCQ,3,OOP,3,2,Which design pattern is used to create objects without specifying the class of object to create?,Factory Pattern,Singleton Pattern,Builder Pattern,Prototype Pattern,Factory Pattern,5
+CSCQ,3,OOP,3,3,Which design pattern is used to ensure that a class has only one instance and provides a global point of access to that instance?,Singleton Pattern,Factory Pattern,Builder Pattern,Prototype Pattern,Singleton Pattern,5
+CSCQ,3,OOP,3,4,Which design pattern is used to decouple abstraction from implementation so that the two can vary independently?,Bridge Pattern,Adapter Pattern,Decorator Pattern,Proxy Pattern,Bridge Pattern,5
+CSCQ,3,OOP,3,5,Which design pattern is used to separate the construction of a complex object from its representation so that the same construction process can create different representations?,Builder Pattern,Factory Pattern,Singleton Pattern,Prototype Pattern,Builder Pattern,5
+CSCQ,3,OOP,3,6,Which design pattern is used to allow a class to alter its behavior when its internal state changes?,State Pattern,Strategy Pattern,Observer Pattern,Command Pattern,State Pattern,5
+CSCQ,3,OOP,3,7,Which design pattern is used to provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation?,Iterator Pattern,Composite Pattern,Proxy Pattern,Decorator Pattern,Iterator Pattern,5
+CSCQ,3,OOP,3,8,Which design pattern is used to represent a part-whole hierarchy of objects where clients can treat individual objects and compositions of objects uniformly?,Composite Pattern,Proxy Pattern,Decorator Pattern,Flyweight Pattern,Composite Pattern,5
+CSCQ,3,OOP,3,9,Which design pattern is used to separate the responsibilities of object creation and representation?,Abstract Factory Pattern,Builder Pattern,Prototype Pattern,Singleton Pattern,Abstract Factory Pattern,5
+CSCQ,3,OOP,3,10,Which design pattern is used to add new features to an object dynamically without altering its structure?,Decorator Pattern,Proxy Pattern,Composite Pattern,Flyweight Pattern,Decorator Pattern,5
+CSCQ,3,OOP,3,11,Which design pattern is used to define the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure?,Template Method Pattern,Strategy Pattern,Visitor Pattern,Observer Pattern,Template Method Pattern,5
+CSCQ,3,OOP,3,12,Which design pattern is used to provide a surrogate or placeholder for another object to control access to it?,Proxy Pattern,Adapter Pattern,Decorator Pattern,Composite Pattern,Proxy Pattern,5
+CSCQ,3,OOP,3,13,Which design pattern is used to allow objects to communicate with each other without knowing their actual classes?,Mediator Pattern,Observer Pattern,Chain of Responsibility Pattern,Command Pattern,Mediator Pattern,5
+CSCQ,3,OOP,3,14,Which design pattern is used to convert the interface of a class into another interface clients expect?,Adapter Pattern,Decorator Pattern,Proxy Pattern,Facade Pattern,Adapter Pattern,5
+CSCQ,3,OOP,3,15,Which design pattern is used to allow an object to alter its behavior when its internal state changes?,State Pattern,Strategy Pattern,Observer Pattern,Command Pattern,State Pattern,5
+CS,3,Psychology
+CSC,3,Psychology,1
+CSCQ,3,Psychology,1,1,What is psychology?,The scientific study of the mind and behavior,The study of rocks,The study of plants,The study of animals,The scientific study of the mind and behavior,5
+CSCQ,3,Psychology,1,2,Who is considered the father of psychology?,Wilhelm Wundt,Sigmund Freud,Carl Jung,John B. Watson,Wilhelm Wundt,5
+CSCQ,3,Psychology,1,3,What is the main goal of psychology?,To understand and explain behavior and mental processes,To make people happy,To solve mathematical problems,To study the stars,To understand and explain behavior and mental processes,5
+CSCQ,3,Psychology,1,4,Which perspective in psychology emphasizes the importance of unconscious conflicts and early childhood experiences?,Psychoanalytic perspective,Behavioral perspective,Cognitive perspective,Humanistic perspective,Psychoanalytic perspective,5
+CSCQ,3,Psychology,1,5,What is the focus of the behavioral perspective in psychology?,Observable behavior,Biological processes,Unconscious conflicts,Personal growth,Observable behavior,5
+CSCQ,3,Psychology,1,6,What is the main focus of the cognitive perspective in psychology?,The mental processes involved in knowing,The biological basis of behavior,The influence of society on behavior,The unconscious mind,The mental processes involved in knowing,5
+CSCQ,3,Psychology,1,7,What is the main focus of the humanistic perspective in psychology?,The unique qualities of human behavior,The influence of society on behavior,The unconscious mind,The biological basis of behavior,The unique qualities of human behavior,5
+CSCQ,3,Psychology,1,8,Which perspective in psychology emphasizes the role of biological factors in behavior and mental processes?,Biological perspective,Psychoanalytic perspective,Behavioral perspective,Sociocultural perspective,Biological perspective,5
+CSCQ,3,Psychology,1,9,What is the main focus of the sociocultural perspective in psychology?,The influence of culture and society on behavior,The mental processes involved in knowing,The biological basis of behavior,The role of unconscious conflicts,The influence of culture and society on behavior,5
+CSCQ,3,Psychology,1,10,What is the main focus of the evolutionary perspective in psychology?,How behavior and mental processes have evolved over time,The influence of culture and society on behavior,The unconscious mind,The mental processes involved in knowing,How behavior and mental processes have evolved over time,5
+CSCQ,3,Psychology,1,11,Which research method involves observing and recording behavior in naturally occurring situations without trying to manipulate and control the situation?,Naturalistic observation,Case study,Survey,Experiment,Naturalistic observation,5
+CSCQ,3,Psychology,1,12,Which research method involves studying one individual or group in depth in the hope of revealing universal principles?,Case study,Naturalistic observation,Experiment,Survey,Case study,5
+CSCQ,3,Psychology,1,13,Which research method involves examining one participant or group of participants over a prolonged period of time?,Longitudinal study,Cross-sectional study,Experiment,Case study,Longitudinal study,5
+CSCQ,3,Psychology,1,14,What is the potential drawback of using case studies in psychological research?,They may not be representative of the broader population,They are time-consuming and expensive,They cannot establish cause-and-effect relationships,They rely too much on self-report data,They may not be representative of the broader population,5
+CSCQ,3,Psychology,1,15,Which research method involves asking people to report their behavior or opinions?,Survey,Naturalistic observation,Experiment,Case study,Survey,5
+CSCQ,3,Psychology,1,16,What is a potential limitation of survey research?,Response bias,Observer bias,Demand characteristics,Social desirability bias,Response bias,5
+CSCQ,3,Psychology,1,17,Which research method allows researchers to infer cause-and-effect relationships?,Experiment,Case study,Naturalistic observation,Survey,Experiment,5
+CSCQ,3,Psychology,1,18,What is a confounding variable in an experiment?,A variable other than the independent variable that could influence the dependent variable,A variable that is intentionally manipulated by the researcher,A variable that remains constant throughout the experiment,A variable that is measured but not manipulated by the researcher,A variable other than the independent variable that could influence the dependent variable,5
+CSC,3,Psychology,2
+CSCQ,3,Psychology,2,1,What is the basic building block of the nervous system?,Neuron,Glial cell,Synapse,Action potential,Neuron,5
+CSCQ,3,Psychology,2,2,What is the function of a dendrite?,To receive signals from other neurons,To transmit signals to other neurons,To insulate the axon,To release neurotransmitters,To receive signals from other neurons,5
+CSCQ,3,Psychology,2,3,What is the function of the myelin sheath?,To insulate and speed up the transmission of nerve impulses,To receive signals from other neurons,To release neurotransmitters,To transmit signals to other neurons,To insulate and speed up the transmission of nerve impulses,5
+CSCQ,3,Psychology,2,4,What is the small gap between neurons called?,Synapse,Action potential,Dendrite,Myelin sheath,Synapse,5
+CSCQ,3,Psychology,2,5,What is the role of neurotransmitters in synaptic transmission?,To transmit signals from one neuron to another,To insulate the axon,To receive signals from other neurons,To release neurotransmitters,To transmit signals from one neuron to another,5
+CSCQ,3,Psychology,2,6,What is the function of the central nervous system (CNS)?,To process and integrate information,To control voluntary muscle movements,To regulate involuntary processes,To transmit sensory information to the brain,To process and integrate information,5
+CSCQ,3,Psychology,2,7,Which part of the brain is responsible for coordinating voluntary movements and balance?,Cerebellum,Medulla oblongata,Hypothalamus,Thalamus,Cerebellum,5
+CSCQ,3,Psychology,2,8,What is the function of the hypothalamus?,To regulate body temperature and control hunger and thirst,To control voluntary muscle movements,To relay sensory information to the cerebral cortex,To control basic life support functions such as heartbeat and breathing,To regulate body temperature and control hunger and thirst,5
+CSCQ,3,Psychology,2,9,What is the role of the limbic system in the brain?,Emotional processing and memory,Eating and drinking behaviors,Sensory perception,Motor coordination,Emotional processing and memory,5
+CSCQ,3,Psychology,2,10,What is the primary function of the amygdala?,Emotional processing and the formation of emotional memories,Regulating body temperature and hunger,Processing visual information,Coordinating voluntary movements,Emotional processing and the formation of emotional memories,5
+CSCQ,3,Psychology,2,11,Which neurotransmitter is associated with pleasure and reward?,Dopamine,Serotonin,Acetylcholine,GABA,Dopamine,5
+CSCQ,3,Psychology,2,12,What is the function of the endocrine system?,To regulate bodily functions through the release of hormones,To control voluntary muscle movements,To transmit sensory information to the brain,To regulate body temperature and hunger,To regulate bodily functions through the release of hormones,5
+CSCQ,3,Psychology,2,13,Which gland is known as the "master gland" because it regulates other endocrine glands?,Pituitary gland,Thyroid gland,Adrenal gland,Pineal gland,Pituitary gland,5
+CSCQ,3,Psychology,2,14,What is the primary function of the adrenal glands?,To produce hormones involved in the body's stress response,To regulate metabolism and energy levels,To regulate calcium levels in the blood,To control voluntary muscle movements,To produce hormones involved in the body's stress response,5
+CSCQ,3,Psychology,2,15,What is the function of the pancreas in the endocrine system?,To regulate blood sugar levels by producing insulin and glucagon,To produce hormones involved in the body's stress response,To regulate metabolism and energy levels,To control voluntary muscle movements,To regulate blood sugar levels by producing insulin and glucagon,5
+CSCQ,3,Psychology,2,16,Which hormone is responsible for regulating sleep-wake cycles and circadian rhythms?,Melatonin,Adrenaline,Insulin,Thyroxine,Melatonin,5
+CSCQ,3,Psychology,2,17,What is the primary function of cortisol?,To help the body respond to stress,To regulate blood sugar levels,To promote the absorption of calcium,To regulate metabolism,To help the body respond to stress,5
+CSCQ,3,Psychology,2,18,What is the relationship between stress and cortisol levels?,Stress increases cortisol levels,Stress decreases cortisol levels,Stress has no effect on cortisol levels,Stress increases insulin levels,Stress increases cortisol levels,5
+CSCQ,3,Psychology,2,19,What is the primary function of oxytocin?,To promote bonding and social behavior,To regulate blood pressure,To control appetite,To stimulate the production of milk in lactating women,To promote bonding and social behavior,5
+CSC,3,Psychology,3
+CSCQ,3,Psychology,3,1,What is classical conditioning?,A type of learning in which a neutral stimulus comes to elicit a response after being paired with a stimulus that naturally elicits a response,The process of observing and imitating the behavior of others,The tendency to remember information that is at the beginning of a list,The tendency to remember information that is at the end of a list,A type of learning in which a neutral stimulus comes to elicit a response after being paired with a stimulus that naturally elicits a response,5
+CSCQ,3,Psychology,3,2,Who is known as the father of classical conditioning?,Ivan Pavlov,John B. Watson,B.F. Skinner,Albert Bandura,Ivan Pavlov,5
+CSCQ,3,Psychology,3,3,What is the unconditioned stimulus (UCS) in Pavlov's experiment with dogs?,The food,The bell,The salivation,The association between the bell and the food,The food,5
+CSCQ,3,Psychology,3,4,What is an example of classical conditioning in everyday life?,Feeling hungry when you smell your favorite food cooking,Learning to fear a dog after being bitten by one,Turning off a loud alarm after waking up,Remembering a friend's phone number after seeing it once,Feeling hungry when you smell your favorite food cooking,5
+CSCQ,3,Psychology,3,5,What is operant conditioning?,A type of learning in which behavior is strengthened or weakened by consequences,The process of observing and imitating the behavior of others,The tendency to remember information that is at the beginning of a list,The tendency to remember information that is at the end of a list,A type of learning in which behavior is strengthened or weakened by consequences,5
+CSCQ,3,Psychology,3,6,Who developed the theory of operant conditioning?,B.F. Skinner,Ivan Pavlov,John B. Watson,Albert Bandura,B.F. Skinner,5
+CSCQ,3,Psychology,3,7,What is reinforcement in operant conditioning?,Anything that strengthens the behavior it follows,Anything that weakens the behavior it follows,The process of gradually shaping behavior through successive approximations,The process of extinguishing a previously reinforced behavior,Anything that strengthens the behavior it follows,5
+CSCQ,3,Psychology,3,8,What is positive reinforcement?,Adding something desirable to increase a behavior,Removing something undesirable to increase a behavior,Adding something undesirable to decrease a behavior,Removing something desirable to decrease a behavior,Adding something desirable to increase a behavior,5
+CSCQ,3,Psychology,3,9,What is negative reinforcement?,Removing something undesirable to increase a behavior,Adding something undesirable to decrease a behavior,Adding something desirable to increase a behavior,Removing something desirable to decrease a behavior,Removing something undesirable to increase a behavior,5
+CSCQ,3,Psychology,3,10,What is punishment in operant conditioning?,An event that decreases the behavior it follows,An event that increases the behavior it follows,An event that has no effect on behavior,An event that strengthens behavior,An event that decreases the behavior it follows,5
+CSCQ,3,Psychology,3,11,What is positive punishment?,Adding something undesirable to decrease a behavior,Removing something undesirable to increase a behavior,Adding something desirable to increase a behavior,Removing something desirable to decrease a behavior,Adding something undesirable to decrease a behavior,5
+CSCQ,3,Psychology,3,12,What is negative punishment?,Removing something desirable to decrease a behavior,Adding something undesirable to decrease a behavior,Adding something desirable to increase a behavior,Removing something undesirable to increase a behavior,Removing something desirable to decrease a behavior,5
+CSCQ,3,Psychology,3,13,What is shaping in operant conditioning?,The process of gradually molding a desired behavior by reinforcing successive approximations,The process of extinguishing a previously reinforced behavior,The process of observing and imitating the behavior of others,The tendency to remember information that is at the end of a list,The process of gradually molding a desired behavior by reinforcing successive approximations,5
+CSCQ,3,Psychology,3,14,What is extinction in operant conditioning?,The gradual decrease in the strength or frequency of a learned response when it is no longer reinforced,The process of observing and imitating the behavior of others,The tendency to remember information that is at the end of a list,The process of gradually shaping behavior through successive approximations,The gradual decrease in the strength or frequency of a learned response when it is no longer reinforced,5
+CSCQ,3,Psychology,3,15,Who is considered the father of cognitive psychology?,Ulric Neisser,William James,John B. Watson,Ivan Pavlov,Ulric Neisser,5
+CSCQ,3,Psychology,3,16,What is memory?,The ability to store and retrieve information over time,The process of observing and imitating the behavior of others,The tendency to remember information that is at the beginning of a list,The tendency to remember information that is at the end of a list,The ability to store and retrieve information over time,5
+CSCQ,3,Psychology,3,17,What is the capacity of short-term memory?,7±2 items,Unlimited,Small,Depends on rehearsal,7±2 items,5
+C,4
+CS,4,Botany
+CSC,4,Botany,1
+CSCQ,4,Botany,1,1,What is the process of photosynthesis?,Conversion of light energy to chemical energy,Respiration,Transpiration,Absorption,Conversion of light energy to chemical energy,5
+CSCQ,4,Botany,1,2,Which pigment is primarily involved in photosynthesis?,Chlorophyll,Carotenoids,Anthocyanin,Xanthophyll,Chlorophyll,5
+CSCQ,4,Botany,1,3,What gas is released during photosynthesis?,Oxygen,Carbon dioxide,Nitrogen,Methane,Oxygen,5
+CSCQ,4,Botany,1,4,What is the main function of roots?,Absorb water and nutrients,Support the plant,Photosynthesis,Produce flowers,Absorb water and nutrients,5
+CSCQ,4,Botany,1,5,What is transpiration?,Loss of water vapor from plants,Photosynthesis,Respiration,Nutrient uptake,Loss of water vapor from plants,5
+CSCQ,4,Botany,1,6,Which part of the plant is responsible for photosynthesis?,Leaves,Roots,Stems,Flowers,Leaves,5
+CSCQ,4,Botany,1,7,What is the primary function of stomata?,Gas exchange,Water absorption,Nutrient uptake,Structural support,Gas exchange,5
+CSCQ,4,Botany,1,8,What is the role of xylem?,Transport water and nutrients,Transport food,Support the plant,Protect from pathogens,Transport water and nutrients,5
+CSCQ,4,Botany,1,9,What is the role of phloem?,Transport food,Transport water,Provide structural support,Gas exchange,Transport food,5
+CSCQ,4,Botany,1,10,What is the process of converting nitrogen gas into a usable form for plants?,Nitrogen fixation,Photosynthesis,Transpiration,Respiration,Nitrogen fixation,5
+CSCQ,4,Botany,1,11,What is the function of the chloroplast?,Site of photosynthesis,Gas exchange,Water transport,Nutrient absorption,Site of photosynthesis,5
+CSCQ,4,Botany,1,12,What part of the plant stores starch?,Roots,Leaves,Flowers,Stems,Roots,5
+CSCQ,4,Botany,1,13,What is phototropism?,Growth towards light,Loss of water,Gas exchange,Nutrient absorption,Growth towards light,5
+CSCQ,4,Botany,1,14,What is the function of the vacuole in plant cells?,Storage of water and nutrients,Photosynthesis,Gas exchange,Protein synthesis,Storage of water and nutrients,5
+CSCQ,4,Botany,1,15,What is the role of plant hormones?,Regulate growth and development,Photosynthesis,Water transport,Gas exchange,Regulate growth and development,5
+CSCQ,4,Botany,1,16,What is the main purpose of flowers?,Reproduction,Photosynthesis,Nutrient absorption,Water transport,Reproduction,5
+CSCQ,4,Botany,1,17,What is the primary function of leaves?,Photosynthesis,Nutrient uptake,Support,Reproduction,Photosynthesis,5
+CSCQ,4,Botany,1,18,What is the term for a plant that lives for more than two years?,Perennial,Annual,Biennial,Deciduous,Perennial,5
+CSCQ,4,Botany,1,19,What is an example of a plant hormone?,Auxin,Glucose,Chlorophyll,Nitrogen,Auxin,5
+CSCQ,4,Botany,1,20,What is the role of root hairs?,Increase surface area for absorption,Photosynthesis,Gas exchange,Structural support,Increase surface area for absorption,5
+CSC,4,Botany,2
+CSCQ,4,Botany,2,1,Which tissue is responsible for the transport of nutrients in plants?,Phloem,Xylem,Cambium,Stomata,Phloem,5
+CSCQ,4,Botany,2,2,What is the main function of the epidermis in plants?,Protection,Photosynthesis,Transport,Reproduction,Protection,5
+CSCQ,4,Botany,2,3,What are vascular bundles?,Xylem and phloem combined,Stomata and guard cells,Roots and shoots,Flowers and fruits,Xylem and phloem combined,5
+CSCQ,4,Botany,2,4,Which part of the flower is responsible for producing pollen?,Anther,Stigma,Ovary,Petal,Anther,5
+CSCQ,4,Botany,2,5,What is the main function of the stem?,Support the plant,Photosynthesis,Nutrient absorption,Reproduction,Support the plant,5
+CSCQ,4,Botany,2,6,What are guard cells?,Cells that control the opening and closing of stomata,Cells that transport water,Cells that store nutrients,Cells that carry out photosynthesis,Cells that control the opening and closing of stomata,5
+CSCQ,4,Botany,2,7,What is the primary function of root hairs?,Increase absorption surface area,Support the plant,Produce flowers,Transport food,Increase absorption surface area,5
+CSCQ,4,Botany,2,8,What part of the plant is involved in gas exchange?,Stomata,Xylem,Phloem,Root hairs,Stomata,5
+CSCQ,4,Botany,2,9,Which part of the flower develops into a fruit?,Ovary,Stigma,Anther,Petal,Ovary,5
+CSCQ,4,Botany,2,10,What is the main function of petals?,Attract pollinators,Photosynthesis,Support the plant,Transport nutrients,Attract pollinators,5
+CSCQ,4,Botany,2,11,What is the role of chloroplasts?,Photosynthesis,Nutrient transport,Water absorption,Structural support,Photosynthesis,5
+CSCQ,4,Botany,2,12,What is lignin?,A compound that strengthens cell walls,A type of chlorophyll,A hormone involved in growth,A part of the seed,A compound that strengthens cell walls,5
+CSCQ,4,Botany,2,13,What is the function of the cuticle in plants?,Reduce water loss,Support the plant,Absorb sunlight,Transport nutrients,Reduce water loss,5
+CSCQ,4,Botany,2,14,What is the purpose of meristematic tissue?,Growth and development,Transport of water,Photosynthesis,Reproduction,Growth and development,5
+CSCQ,4,Botany,2,15,What part of the flower contains ovules?,Ovary,Stigma,Anther,Petal,Ovary,5
+CSCQ,4,Botany,2,16,What is the role of phloem in plants?,Transport of nutrients,Transport of water,Support the plant,Gas exchange,Transport of nutrients,5
+CSCQ,4,Botany,2,17,What is the function of the vascular cambium?,Production of new vascular tissue,Photosynthesis,Water absorption,Nutrient storage,Production of new vascular tissue,5
+CSCQ,4,Botany,2,18,What is the function of sieve tube elements?,Transport of nutrients,Gas exchange,Support the plant,Water absorption,Transport of nutrients,5
+CSCQ,4,Botany,2,19,What is a characteristic of dicots?,Two seed leaves,Parallel leaf veins,Scattered vascular bundles,Fibrous root system,Two seed leaves,5
+CS,4,Data Analytics
+CSC,4,Data Analytics,1
+CSCQ,4,Data Analytics,1,1,What is the first step in data analytics?,Data collection,Data cleaning,Data analysis,Data visualization,Data collection,5
+CSCQ,4,Data Analytics,1,2,Which type of data is numeric?,Quantitative,Qualitative,Categorical,Ordinal,Quantitative,5
+CSCQ,4,Data Analytics,1,3,What is a histogram used for?,Showing frequency distribution,Comparing categories,Showing trends over time,Displaying relationships,Showing frequency distribution,5
+CSCQ,4,Data Analytics,1,4,What is data cleaning?,Removing errors and inconsistencies,Collecting data,Analyzing data,Visualizing data,Removing errors and inconsistencies,5
+CSCQ,4,Data Analytics,1,5,What is the purpose of a scatter plot?,Showing relationship between two variables,Showing frequency distribution,Comparing multiple categories,Tracking changes over time,Showing relationship between two variables,5
+CSCQ,4,Data Analytics,1,6,What does 'mean' refer to in statistics?,Average value,Middle value,Most frequent value,Range,Average value,5
+CSCQ,4,Data Analytics,1,7,What is an outlier?,A data point significantly different from others,A common data point,A missing data point,A measure of central tendency,A data point significantly different from others,5
+CSCQ,4,Data Analytics,1,8,What is the median?,The middle value of a data set,The average value,The most frequent value,The highest value,The middle value of a data set,5
+CSCQ,4,Data Analytics,1,9,What is the mode?,The most frequent value,The middle value,The average value,The range,The most frequent value,5
+CSCQ,4,Data Analytics,1,10,What is a box plot used for?,Displaying data distribution,Comparing two categories,Showing changes over time,Displaying relationships,Displaying data distribution,5
+CSCQ,4,Data Analytics,1,11,What is the purpose of regression analysis?,Determining relationship between variables,Finding average values,Identifying data errors,Comparing categories,Determining relationship between variables,5
+CSCQ,4,Data Analytics,1,12,What is the interquartile range?,Measure of data spread,Measure of central tendency,Most frequent value,Highest value,Measure of data spread,5
+CSCQ,4,Data Analytics,1,13,What is a pie chart used for?,Showing proportions of a whole,Comparing data over time,Showing relationships between variables,Displaying frequency distribution,Showing proportions of a whole,5
+CSCQ,4,Data Analytics,1,14,What is a common method for data visualization?,Using graphs and charts,Performing statistical tests,Data cleaning,Data collection,Using graphs and charts,5
+CSCQ,4,Data Analytics,1,15,What does 'variance' measure?,The spread of data,The central value,The highest value,The most frequent value,The spread of data,5
+CSCQ,4,Data Analytics,1,16,What is a key characteristic of big data?,Large volume and complexity,Small data sets,Simple structure,Easy to analyze,Large volume and complexity,5
+CSCQ,4,Data Analytics,1,17,What is data mining?,Extracting useful information from large data sets,Collecting data,Visualizing data,Cleaning data,Extracting useful information from large data sets,5
+CSCQ,4,Data Analytics,1,18,What is a time series analysis?,Analysis of data points collected over time,Comparison of categories,Identification of outliers,Description of central tendency,Analysis of data points collected over time,5
+CSCQ,4,Data Analytics,1,19,What is the purpose of data visualization?,Making data easier to understand,Collecting data,Cleaning data,Storing data,Making data easier to understand,5
+CSC,4,Data Analytics,2
+CSCQ,4,Data Analytics,2,1,What is machine learning?,A method of data analysis that automates analytical model building,Manual data analysis,Collecting data,Creating data visualizations,A method of data analysis that automates analytical model building,5
+CSCQ,4,Data Analytics,2,2,What is a common application of machine learning?,Predictive analytics,Data collection,Manual data cleaning,Data entry,Predictive analytics,5
+CSCQ,4,Data Analytics,2,3,What is a neural network?,A computational model inspired by the human brain,A type of data visualization,An error in data,An outlier,A computational model inspired by the human brain,5
+CSCQ,4,Data Analytics,2,4,What is clustering in data analytics?,Grouping similar data points together,Separating data points,Finding average values,Removing outliers,Grouping similar data points together,5
+CSCQ,4,Data Analytics,2,5,What is the purpose of a confusion matrix?,Evaluating the accuracy of a classification model,Collecting data,Visualizing data,Removing errors,Evaluating the accuracy of a classification model,5
+CSCQ,4,Data Analytics,2,6,What is a decision tree?,A model used for classification and regression,A type of data visualization,A method of data cleaning,A statistical test,A model used for classification and regression,5
+CSCQ,4,Data Analytics,2,7,What is the role of feature selection?,Selecting relevant variables for model building,Collecting data,Visualizing data,Removing errors,Selecting relevant variables for model building,5
+CSCQ,4,Data Analytics,2,8,What is a common technique for reducing dimensionality?,Principal component analysis,Data cleaning,Data collection,Data visualization,Principal component analysis,5
+CSCQ,4,Data Analytics,2,9,What is overfitting?,A model that is too complex and fits the noise in the data,An underperforming model,A data entry error,A type of visualization,A model that is too complex and fits the noise in the data,5
+CSCQ,4,Data Analytics,2,10,What is cross-validation?,A technique for evaluating model performance,Collecting data,Visualizing data,Removing errors,A technique for evaluating model performance,5
+CSCQ,4,Data Analytics,2,11,What is a common metric for classification model accuracy?,Accuracy,Mean,Variance,Median,Accuracy,5
+CSCQ,4,Data Analytics,2,12,What is a support vector machine?,A supervised learning model used for classification and regression,An unsupervised learning model,A data visualization tool,A data collection method,A supervised learning model used for classification and regression,5
+CSCQ,4,Data Analytics,2,13,What is the purpose of normalization in data preprocessing?,Scaling data to a standard range,Collecting data,Visualizing data,Removing outliers,Scaling data to a standard range,5
+CSCQ,4,Data Analytics,2,14,What is an example of a loss function in machine learning?,Mean squared error,Variance,Mean,Median,Mean squared error,5
+CSCQ,4,Data Analytics,2,15,What is the purpose of ensemble methods?,Combining multiple models to improve performance,Collecting data,Visualizing data,Removing errors,Combining multiple models to improve performance,5
+CSCQ,4,Data Analytics,2,16,What is a common technique for text analysis?,Natural language processing,Data cleaning,Data visualization,Dimensionality reduction,Natural language processing,5
+CSCQ,4,Data Analytics,2,17,What is the purpose of data augmentation?,Increasing the diversity of training data,Collecting data,Visualizing data,Removing errors,Increasing the diversity of training data,5
+CSCQ,4,Data Analytics,2,18,What is a key feature of big data?,High volume and velocity,Small data sets,Simple structure,Easy to analyze,High volume and velocity,5
+CSCQ,4,Data Analytics,2,19,What is the purpose of anomaly detection?,Identifying unusual data points,Collecting data,Visualizing data,Normalizing data,Identifying unusual data points,5
+C,5
+CS,5,Web Development
+CSC,5,Web Development,1
+CSCQ,5,Web Development,1,1,What does HTML stand for?,HyperText Markup Language,HyperText Machine Language,HyperTransfer Markup Language,HyperTextual Markup Language,HyperText Markup Language,3
+CSCQ,5,Web Development,1,2,Which tag is used to create a hyperlink in HTML?,<a>,<link>,<href>,<hyperlink>,<a>,2
+CSCQ,5,Web Development,1,3,What tag is used to create an ordered list?,<ol>,<ul>,<li>,<list>,<ol>,4
+CSCQ,5,Web Development,1,4,What attribute is used to specify the URL of an image?,src,href,link,alt,src,1
+CSCQ,5,Web Development,1,5,What is the purpose of the <head> tag?,Contains meta-information about the document,Creates a heading,Defines the main content,Creates a hyperlink,Contains meta-information about the document,5
+CSCQ,5,Web Development,1,6,Which HTML tag is used to create a paragraph?,<p>,<para>,<text>,<content>,<p>,3
+CSCQ,5,Web Development,1,7,What does the <br> tag do?,Inserts a line break,Creates a break in text,Defines bold text,Creates a blank space,Inserts a line break,4
+CSCQ,5,Web Development,1,8,Which attribute is used to specify an alternate text for an image?,alt,src,title,link,alt,2
+CSCQ,5,Web Development,1,9,What tag is used to create a table in HTML?,<table>,<tab>,<tr>,<td>,<table>,1
+CSCQ,5,Web Development,1,10,Which tag is used to define a list item?,<li>,<ul>,<item>,<ol>,<li>,5
+CSC,5,Web Development,2
+CSCQ,5,Web Development,2,1,What does CSS stand for?,Cascading Style Sheets,Computer Style Sheets,Colorful Style Sheets,Creative Style Sheets,Cascading Style Sheets,3
+CSCQ,5,Web Development,2,2,Which property is used to change the background color?,background-color,color,back-color,bgcolor,background-color,4
+CSCQ,5,Web Development,2,3,What symbol is used to denote an ID in CSS?,#,.,*,!,#,2
+CSCQ,5,Web Development,2,4,Which property is used to change the text color of an element?,color,text-color,fgcolor,font-color,color,5
+CSCQ,5,Web Development,2,5,What is the default value of the position property?,static,relative,absolute,fixed,static,3
+CSCQ,5,Web Development,2,6,Which property is used to change the font of an element?,font-family,font-style,font-weight,text-font,font-family,4
+CSCQ,5,Web Development,2,7,Which property is used to change the width of an element's border?,border-width,border-style,border-height,border-color,border-width,2
+CSCQ,5,Web Development,2,8,What is the purpose of the float property?,Positions an element to the left or right,Centers an element,Adjusts the height of an element,Changes the display type,Positions an element to the left or right,1
+CSCQ,5,Web Development,2,9,Which value of the display property makes an element disappear but still take up space?,none,block,inline,hidden,none,5
+CS,5,Machine Learning
+CSC,5,Machine Learning,1
+CSCQ,5,Machine Learning,1,1,What is machine learning?,A field of study that gives computers the ability to learn without being explicitly programmed,A type of hardware,A programming language,An algorithm,A field of study that gives computers the ability to learn without being explicitly programmed,3
+CSCQ,5,Machine Learning,1,2,What is supervised learning?,A type of machine learning where the model is trained on labeled data,Training without labels,Learning through reinforcement,Unsupervised learning with guidance,A type of machine learning where the model is trained on labeled data,2
+CSCQ,5,Machine Learning,1,3,Which algorithm is used for classification tasks?,Decision Tree,K-Means,Linear Regression,PCA,Decision Tree,4
+CSCQ,5,Machine Learning,1,4,What is the main goal of regression?,Predicting continuous values,Classifying data,Predicting categories,Clustering data,Predicting continuous values,1
+CSCQ,5,Machine Learning,1,5,Which term refers to the data used to train a machine learning model?,Training set,Validation set,Test set,Feature set,Training set,5
+CSCQ,5,Machine Learning,1,6,What is overfitting?,A model that performs well on training data but poorly on new data,A model that performs well on new data but poorly on training data,A balanced model,A simple model,A model that performs well on training data but poorly on new data,3
+CSCQ,5,Machine Learning,1,7,What is the purpose of cross-validation?,To assess the performance of a model,To collect data,To clean data,To visualize data,To assess the performance of a model,4
+CSCQ,5,Machine Learning,1,8,What is a neural network inspired by?,The human brain,Computer processors,Data structures,Programming languages,The human brain,2
+CSCQ,5,Machine Learning,1,9,What does the term 'feature' refer to in machine learning?,An individual measurable property or characteristic of a phenomenon,The outcome variable,The algorithm used,The data source,An individual measurable property or characteristic of a phenomenon,1
+CSCQ,5,Machine Learning,1,10,What is a common method for reducing the dimensionality of data?,Principal Component Analysis,Regression,Classification,Clustering,Principal Component Analysis,5
+CSC,5,Machine Learning,2
+CSCQ,5,Machine Learning,2,1,What is a support vector machine?,A supervised learning model used for classification and regression,An unsupervised learning model,A type of neural network,An optimization algorithm,A supervised learning model used for classification and regression,3
+CSCQ,5,Machine Learning,2,2,What is the purpose of the kernel trick in SVM?,To handle non-linear classification problems,To simplify calculations,To reduce data dimensions,To enhance model performance,To handle non-linear classification problems,2
+CSCQ,5,Machine Learning,2,3,What is a decision tree?,A model used for classification and regression,A type of clustering algorithm,A feature selection method,A data collection technique,A model used for classification and regression,4
+CSCQ,5,Machine Learning,2,4,What is boosting?,An ensemble technique that combines weak learners to form a strong learner,A method of data augmentation,A type of regression,An optimization algorithm,An ensemble technique that combines weak learners to form a strong learner,1
+CSCQ,5,Machine Learning,2,5,What is a common algorithm used for clustering?,K-Means,Linear Regression,Decision Tree,Random Forest,K-Means,5
+CSCQ,5,Machine Learning,2,6,What is bagging in machine learning?,An ensemble method that uses bootstrap aggregating,An optimization technique,A type of neural network,An algorithm for clustering,An ensemble method that uses bootstrap aggregating,3
+CSCQ,5,Machine Learning,2,7,What is a random forest?,An ensemble learning method using multiple decision trees,An algorithm for regression,A data preprocessing technique,A clustering method,An ensemble learning method using multiple decision trees,4
+C,6
+C,7
+C,8
+C,9
